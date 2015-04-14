@@ -1,6 +1,6 @@
 # ![Learn the Web, Part 2](title-card.png)
 
-#### This 15 week course covers the responsive and modular web design, accessibility, tables, forms & performance.
+#### This 15 week course covers responsive and modular web design, accessibility, tables, forms & performance.
 
 ---
 
