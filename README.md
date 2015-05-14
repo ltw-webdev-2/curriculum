@@ -5,68 +5,67 @@
 ---
 
 1. **Intros & reviews**
-	- [Quick review of previous knowledge]()
+	- Quick review of previous knowledge
 	- *Assignment 1: Styling a website—3 hours*
 
 2. **Devices & media queries**
-	- [Device size diagram exercise]()
-	- [All devices setup]()
-	- [Media queries]()
+	- Device size diagram exercise
+	- [All devices setup](http://learn-the-web.algonquindesign.ca/topics/all-devices-setup/)
+	- [Media queries](http://learn-the-web.algonquindesign.ca/topics/media-queries/)
 	- *Assignment 2: Medium screens—3 hours*
 
 3. **Media queries for large screens**
-	- [Media queries]()
+	- [Media queries](http://learn-the-web.algonquindesign.ca/topics/media-queries/)
 	- *Assignment 3: Large screens—3 hours*
-	- *Term project, part 1: Website setup—8 hours*
+	- *Term project, part 1: Business card website—8 hours*
 
 4. **Work period**
-	- [Some gamifier]()
+	- Some gamifier
 
 5. **Term project, part 1 due**
-	- [Browser testing]()
+	- [Browser testing](http://learn-the-web.algonquindesign.ca/topics/browser-testing/)
 	- *Personal critique—10 minutes*
 
 6. **Modular & responsive grids**
-	- [Finding grids in web layouts exercise]()
-	- [Grids]()
+	- Finding grids in web layouts exercise
+	- [Grids](http://learn-the-web.algonquindesign.ca/topics/grids/)
 	- *Assignment 4: Grids—3 hours*
 
 7. **Modular typography & spacing**
-	- [Modular typography]()
+	- [Modular typography](http://learn-the-web.algonquindesign.ca/topics/modular-typography/)
 	- *Assignment 5: Modular typography—2 hours*
 
 8. **Modular CSS**
-	- [Modules]()
+	- [Modules](http://learn-the-web.algonquindesign.ca/topics/modules/)
 	- *Assignment 6: Modular spacing—2 hours*
-	- *Term project, part 2: Page layouts—8 hours*
+	- *Term project, part 2: SAAS layouts—8 hours*
 
 9. **Work period**
-	- [Some gamifier]()
+	- Some gamifier
 
 10. **Term project, part 2 due**
-	- [Browser testing]()
+	- [Browser testing](http://learn-the-web.algonquindesign.ca/topics/browser-testing/)
 	- *Personal critique—10 minutes*
 
 11. **Accessibility**
-	- [Research accessibility topics exercise]()
-	- [Accessibility]()
+	- Research accessibility topics exercise
+	- [Accessibility](http://learn-the-web.algonquindesign.ca/topics/accessibility/)
 	- *Assignment 7: Accessibility—2 hours*
 
-12. **Tables & forms**
-	- [Tables]()
-	- [Forms]()
+12. **Forms**
+	- [Forms](http://learn-the-web.algonquindesign.ca/topics/forms/)
 	- *Assignment 8: Sign-up form—3 hours*
 
 13. **Performance**
-	- [Performance]()
+	- [Performance](http://learn-the-web.algonquindesign.ca/topics/performance/)
 	- *Assignment 9: Performance*
-	- *Term project, part 3: Graphic design—8 hours*
+	- *Term project, part 3: SAAS graphic design—8 hours*
 
 14. **Work period**
-	- [Some gamifier]()
+	- Some gamifier
 
 15. **Term project, part 3 due**
-	- [Browser testing]()
+	- [Browser testing](http://learn-the-web.algonquindesign.ca/topics/browser-testing/)
 	- *Personal critique—10 minutes*
 
 ---
