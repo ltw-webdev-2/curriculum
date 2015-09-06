@@ -8,7 +8,8 @@
 
 **Important**
 
-- [**Office hours & location »**](http://thomasjbradley.ca/office-hours/)
+- [**Thomas’s schedule & office hours »**](http://thomasjbradley.ca/office-hours/)
+- [**Public chat for Web Dev 2 »**]()
 
 **Review topics**
 
@@ -76,11 +77,11 @@
 
 ---
 
-## 4. **Work period**
+## 4. **Project 1 work period**
 
 **In class**
 
-- *Activity*
+- *Activity: Layout Model Chooser*
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
@@ -99,7 +100,7 @@
 **In class**
 
 - Browser testing, performance testing, peer testing
-- *Personal critique—10 minutes*
+- **Personal critique—10 minutes**
 
 ---
 
@@ -157,11 +158,11 @@
 
 **In class**
 
+- *Exercise: finding common patterns*
 - Demos:
   - List group
   - Embed containers
   - Buttons
-- *Exercise: finding common components*
 
 **Homework**
 
@@ -170,11 +171,11 @@
 
 ---
 
-## 9. **Work period**
+## 9. **Project 2 work period**
 
 **In class**
 
-- *Activity*
+- [*Activity: Keyboard Commander*](http://activities.learn-the-web.algonquindesign.ca/keyboard-commander/)
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
@@ -193,7 +194,7 @@
 **In class**
 
 - Browser testing, performance testing, peer testing
-- *Personal critique—10 minutes*
+- **Personal critique—10 minutes**
 
 ---
 
@@ -222,7 +223,7 @@
 
 ---
 
-## 12. **Forms**
+## 12. **Forms & tables**
 
 **Topics**
 
@@ -242,7 +243,7 @@
 
 **Homework**
 
-- **Assignment 8: Sign-**up form—3 hours**
+- **Assignment 8: Sign-up form—3 hours**
 
 ---
 
@@ -265,12 +266,12 @@
 
 **Homework**
 
-- **Assignment 9: Performance*
+- **Assignment 9: Performance—2 hours**
 - **Project 3: SAAS website graphic design—8 hours**
 
 ---
 
-## 14. **Work period**
+## 14. **Project 3 work period**
 
 **In class**
 
@@ -295,7 +296,7 @@
 **In class**
 
 - Browser testing, performance testing, peer testing, accessibility testing
-- *Personal critique—10 minutes*
+- **Personal critique—10 minutes**
 
 ---
 
