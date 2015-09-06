@@ -6,17 +6,30 @@
 
 ## 1. **Intros & reviews**
 
+**Important**
+
+- [**Office hours & location »**](http://thomasjbradley.ca/office-hours/)
+
+**Review topics**
+
+- [Everything from **Set up**](http://learn-the-web.algonquindesign.ca/topics/#set-up)
+- [Everything from **Web Dev 1**](http://learn-the-web.algonquindesign.ca/topics/#web-dev-1)
+
 **In class**
 
-- Course introduction Q&A
-- Quick review of the Open Web, why, order we learn code
-- *Exercise: HTML semantics*
-- *Exercise: CSS selectors*
-- *Exercise: Layout models*
+- Course introduction, Q&A, system of the term
+- Lecture:
+  - Quick review of the Open Web
+  - Why we code
+  - Order of learning code
+- [*Exercise: Naming conventions*]() — [Naming & paths cheat sheet](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/)
+- [*Exercise: HTML semantics*]() — [HTML semantics cheat sheet](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
+- [*Exercise: CSS selectors*]() — [CSS selectors & units cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/)
+- [*Exercise: Layout models*]() — [CSS layout cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-layout-cheat-sheet/)
 
 **Homework**
 
-- *Assignment 1: Semantics & styling—3 hours*
+- [**Assignment 1: Semantics & styling—3 hours**]()
 
 ---
 
@@ -35,7 +48,7 @@
 
 **Homework**
 
-- *Assignment 2: Medium screens—3 hours*
+- **Assignment 2: Medium screens—3 hours**
 
 ---
 
@@ -51,8 +64,8 @@
 
 **Homework**
 
-- *Assignment 3: Large screens—3 hours*
-- *Project 1: Business card website—8 hours*
+- **Assignment 3: Large screens—3 hours**
+- **Project 1: Business card website—8 hours**
 
 ---
 
@@ -69,7 +82,7 @@
 
 ---
 
-## 5. **Project 1 due**
+## 5. ***Project 1 due**
 
 **Topics**
 
@@ -98,7 +111,7 @@
 
 **Homework**
 
-- *Assignment 4: Grids—3 hours*
+- **Assignment 4: Grids—3 hours**
 
 ---
 
@@ -116,7 +129,7 @@
 
 **Homework**
 
-- *Assignment 5: Modular typography—2 hours*
+- **Assignment 5: Modular typography—2 hours**
 
 ---
 
@@ -134,8 +147,8 @@
 
 **Homework**
 
-- *Assignment 6: Modules—2 hours*
-- *Project 2: SAAS website layouts—8 hours*
+- **Assignment 6: Modules—2 hours**
+- **Project 2: SAAS website layouts—8 hours**
 
 ---
 
@@ -152,7 +165,7 @@
 
 ---
 
-## 10. **Project 2 due**
+## 10. ***Project 2 due**
 
 **Topics**
 
@@ -181,7 +194,7 @@
 
 **Homework**
 
-- *Assignment 7: Accessibility—2 hours*
+- **Assignment 7: Accessibility—2 hours**
 
 ---
 
@@ -200,8 +213,8 @@
 
 **Homework**
 
-- *Assignment 8: Sign-up form—3 hours*
-
+- **Assignment 8: Sign-**up form—3 hours**
+**
 ---
 
 ## 13. **Performance**
@@ -219,8 +232,8 @@
 
 **Homework**
 
-- *Assignment 9: Performance*
-- *Project 3: SAAS website graphic design—8 hours*
+- **Assignment 9: Performance*
+- **Project 3: SAAS website graphic design—8 hours**
 
 ---
 
@@ -237,7 +250,7 @@
 
 ---
 
-## 15. **Project 3 due**
+## 15. ***Project 3 due**
 
 **Topics**
 
