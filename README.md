@@ -4,7 +4,7 @@
 
 ---
 
-### 1. **Intros & reviews**
+## 1. **Intros & reviews**
 
 **In class**
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 2. **Devices & media queries**
+## 2. **Devices & media queries**
 
 **Topics**
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 3. **Media queries for large screens**
+## 3. **Media queries for large screens**
 
 **Topics**
 
@@ -56,7 +56,7 @@
 
 ---
 
-### 4. **Work period**
+## 4. **Work period**
 
 **In class**
 
@@ -69,7 +69,7 @@
 
 ---
 
-### 5. **Project 1 due**
+## 5. **Project 1 due**
 
 **Topics**
 
@@ -83,7 +83,7 @@
 
 ---
 
-### 6. **Modular & responsive grids**
+## 6. **Modular & responsive grids**
 
 **Topics**
 
@@ -102,7 +102,7 @@
 
 ---
 
-### 7. **Modular typography & spacing**
+## 7. **Modular typography & spacing**
 
 **Topics**
 
@@ -120,7 +120,7 @@
 
 ---
 
-### 8. **Modular CSS**
+## 8. **Modular CSS**
 
 **Topics**
 
@@ -139,7 +139,7 @@
 
 ---
 
-### 9. **Work period**
+## 9. **Work period**
 
 **In class**
 
@@ -152,7 +152,7 @@
 
 ---
 
-### 10. **Project 2 due**
+## 10. **Project 2 due**
 
 **Topics**
 
@@ -166,7 +166,7 @@
 
 ---
 
-### 11. **Accessibility**
+## 11. **Accessibility**
 
 **Topics**
 
@@ -185,7 +185,7 @@
 
 ---
 
-### 12. **Forms**
+## 12. **Forms**
 
 **Topics**
 
@@ -204,7 +204,7 @@
 
 ---
 
-### 13. **Performance**
+## 13. **Performance**
 
 **Topics**
 
@@ -224,7 +224,7 @@
 
 ---
 
-### 14. **Work period**
+## 14. **Work period**
 
 **In class**
 
@@ -237,7 +237,7 @@
 
 ---
 
-### 15. **Project 3 due**
+## 15. **Project 3 due**
 
 **Topics**
 
