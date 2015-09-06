@@ -1,15 +1,24 @@
-# ![Learn the Web, Part 2](title-card.png)
+# ![Learn the Web, Part 2](https://cdn.rawgit.com/acgd-webdev-2/syllabus/master/title-card.png)
 
 #### This 15 week course covers responsive and modular web design, accessibility, tables, forms & performance.
 
 ---
 
-## 1. **Intros & reviews**
-
-**Important**
+[**Thomas J Bradley**](http://thomasjbradley.ca) — office: **J104** — [bradlet@algonquincollege.com](mailto:bradlet@algonquincollege.com)
 
 - [**Thomas’s schedule & office hours »**](http://thomasjbradley.ca/office-hours/)
 - [**Public chat for Web Dev 2 »**]()
+
+---
+---
+
+## Week-by-week
+
+Below is the complete breakdown of everything that will be covered over the next fifteen weeks.
+
+---
+
+### 1. **Intros & reviews**
 
 **Review topics**
 
@@ -24,18 +33,18 @@
   - Why we code
   - Order of learning code
   - Our goals this term
-- [*Exercise: Naming conventions*]() — [Naming & paths cheat sheet](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/)
-- [*Exercise: HTML semantics*]() — [HTML semantics cheat sheet](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
-- [*Exercise: CSS selectors*]() — [CSS selectors & units cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/)
-- [*Exercise: Layout models*]() — [CSS layout cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-layout-cheat-sheet/)
+  - Naming conventions — [Naming & paths cheat sheet](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/)
+- [*Exercise: HTML semantics review*](https://github.com/acgd-webdev-2/exercise-reviews) — [HTML semantics cheat sheet](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
+- [*Exercise: CSS selectors review*](https://github.com/acgd-webdev-2/exercise-reviews) — [CSS selectors & units cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/)
+- [*Exercise: Layout models review*](https://github.com/acgd-webdev-2/exercise-reviews) — [CSS layout cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-layout-cheat-sheet/)
 
 **Homework**
 
-- [**Assignment 1: Semantics & styling—3 hours**]()
+- [**Assignment 1: Semantics & styling—3 hours**](https://github.com/acgd-webdev-2/assignment-1-semantics-styling)
 
 ---
 
-## 2. **Devices & media queries**
+### 2. **Devices & media queries**
 
 **Topics**
 
@@ -58,7 +67,7 @@
 
 ---
 
-## 3. **Media queries for large screens**
+### 3. **Media queries for large screens**
 
 **Topics**
 
@@ -77,7 +86,7 @@
 
 ---
 
-## 4. **Project 1 work period**
+### 4. **Project 1 work period**
 
 **In class**
 
@@ -90,7 +99,7 @@
 
 ---
 
-## 5. **Project 1 due**
+### 5. **Project 1 due**
 
 **Topics**
 
@@ -100,11 +109,10 @@
 **In class**
 
 - Browser testing, performance testing, peer testing
-- **Personal critique—10 minutes**
 
 ---
 
-## 6. **Modular & responsive grids**
+### 6. **Modular & responsive grids**
 
 **Topics**
 
@@ -128,7 +136,7 @@
 
 ---
 
-## 7. **Modular typography & spacing**
+### 7. **Modular typography & spacing**
 
 **Topics**
 
@@ -149,7 +157,7 @@
 
 ---
 
-## 8. **Modular CSS**
+### 8. **Modular CSS**
 
 **Topics**
 
@@ -171,7 +179,7 @@
 
 ---
 
-## 9. **Project 2 work period**
+### 9. **Project 2 work period**
 
 **In class**
 
@@ -184,7 +192,7 @@
 
 ---
 
-## 10. **Project 2 due**
+### 10. **Project 2 due**
 
 **Topics**
 
@@ -194,11 +202,10 @@
 **In class**
 
 - Browser testing, performance testing, peer testing
-- **Personal critique—10 minutes**
 
 ---
 
-## 11. **Accessibility**
+### 11. **Accessibility**
 
 **Topics**
 
@@ -223,7 +230,7 @@
 
 ---
 
-## 12. **Forms & tables**
+### 12. **Forms & tables**
 
 **Topics**
 
@@ -247,7 +254,7 @@
 
 ---
 
-## 13. **Performance**
+### 13. **Performance**
 
 **Topics**
 
@@ -271,7 +278,7 @@
 
 ---
 
-## 14. **Project 3 work period**
+### 14. **Project 3 work period**
 
 **In class**
 
@@ -284,7 +291,7 @@
 
 ---
 
-## 15. **Project 3 due**
+### 15. **Project 3 due**
 
 **Topics**
 
@@ -296,8 +303,16 @@
 **In class**
 
 - Browser testing, performance testing, peer testing, accessibility testing
-- **Personal critique—10 minutes**
 
+---
+---
+
+## Marking scheme
+
+- **Assignments** — 55% (9 × ~6%)
+- **Projects** — 45% (3 × 15%)
+
+---
 ---
 
 ## License & Copyright
