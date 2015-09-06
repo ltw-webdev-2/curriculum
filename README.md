@@ -22,6 +22,7 @@
   - Quick review of the Open Web
   - Why we code
   - Order of learning code
+  - Our goals this term
 - [*Exercise: Naming conventions*]() — [Naming & paths cheat sheet](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/)
 - [*Exercise: HTML semantics*]() — [HTML semantics cheat sheet](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
 - [*Exercise: CSS selectors*]() — [CSS selectors & units cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/)
@@ -44,7 +45,11 @@
 **In class**
 
 - *Exercise: device sizes*
-- Demos: setup, media queries, layout changes
+- Demos:
+  - Setup
+  - Media queries, calculating ems
+  - Inheriting and the cascade
+  - Layout changes
 
 **Homework**
 
@@ -60,7 +65,9 @@
 
 **In class**
 
-- Demos: media queries for larger screens, print styles
+- Demos: 
+  - Media queries for larger screens
+  - Print styles
 
 **Homework**
 
@@ -82,7 +89,7 @@
 
 ---
 
-## 5. ***Project 1 due**
+## 5. **Project 1 due**
 
 **Topics**
 
@@ -107,7 +114,12 @@
 **In class**
 
 - *Exercise: finding grids in web layouts*
-- Demos: making grids, using grids, grid systems
+- Demos:
+  - Making flexible grids
+  - Making elements with & without gutters
+  - Making responsive grids
+  - Using grids
+  - Grid systems
 
 **Homework**
 
@@ -125,7 +137,10 @@
 
 **In class**
 
-- Demos: generating a type system, using sizes, utility classes
+- Demos: 
+  - Generating a type system
+  - Using sizes
+  - Utility classes
 
 **Homework**
 
@@ -142,7 +157,10 @@
 
 **In class**
 
-- Demos: list group, embed containers, buttons
+- Demos:
+  - List group
+  - Embed containers
+  - Buttons
 - *Exercise: finding common components*
 
 **Homework**
@@ -165,7 +183,7 @@
 
 ---
 
-## 10. ***Project 2 due**
+## 10. **Project 2 due**
 
 **Topics**
 
@@ -189,7 +207,13 @@
 **In class**
 
 - *Exercise: research accessibility topics*
-- Demos: accessibility users, roles, skip links, focus styles, validation, screen readers
+- Demos:
+  - Accessibility users
+  - ARIA roles
+  - Skip links
+  - Keyboard focus styles
+  - Validation
+  - Screen readers
 - *Exercise: using a screen reader*
 
 **Homework**
@@ -209,12 +233,17 @@
 
 **In class**
 
-- Demos: form basics, different input types, form styling, functional forms
+- Demos:
+  - HTML form basics
+  - Different input types
+  - Form styling
+  - Functional forms with Formspree
+  - Basic data tables
 
 **Homework**
 
 - **Assignment 8: Sign-**up form—3 hours**
-**
+
 ---
 
 ## 13. **Performance**
@@ -228,7 +257,11 @@
 **In class**
 
 - *Exercise: your performance budget*
-- Demos: tools, ImageAlpha, blurring JPGs, favicon smushing
+- Demos:
+  - Performance testing tools
+  - ImageAlpha & PNG-8
+  - Blurring JPGs
+  - Favicon smushing
 
 **Homework**
 
@@ -250,7 +283,7 @@
 
 ---
 
-## 15. ***Project 3 due**
+## 15. **Project 3 due**
 
 **Topics**
 
