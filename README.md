@@ -1,4 +1,4 @@
-# ![Learn the Web, Part 2](https://cdn.rawgit.com/acgd-webdev-2/syllabus/master/title-card.png)
+# ![Learn the Web, Part 2](title-card.png)
 
 #### This 15 week course covers responsive and modular web design, accessibility, tables, forms & performance.
 
