@@ -7,7 +7,6 @@
 [**Thomas J Bradley**](http://thomasjbradley.ca) — office: **J104** — [bradlet@algonquincollege.com](mailto:bradlet@algonquincollege.com)
 
 - [**Thomas’s schedule & office hours »**](http://thomasjbradley.ca/office-hours/)
-- [**Public chat for Web Dev 2 »**]()
 
 ---
 ---
@@ -33,10 +32,10 @@ Below is the complete breakdown of everything that will be covered over the next
   - Why we code
   - Order of learning code
   - Our goals this term
-  - Naming conventions — [Naming & paths cheat sheet](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/)
-- [*Exercise: HTML semantics review*](https://github.com/acgd-webdev-2/exercise-reviews) — [HTML semantics cheat sheet](http://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
-- [*Exercise: CSS selectors review*](https://github.com/acgd-webdev-2/exercise-reviews) — [CSS selectors & units cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-selectors-units-cheat-sheet/)
-- [*Exercise: Layout models review*](https://github.com/acgd-webdev-2/exercise-reviews) — [CSS layout cheat sheet](http://learn-the-web.algonquindesign.ca/topics/css-layout-cheat-sheet/)
+  - [Naming conventions](http://learn-the-web.algonquindesign.ca/topics/naming-paths-cheat-sheet/)
+- [*Exercise: Organization, naming & setup*](https://github.com/acgd-webdev-2/exercise-reviews#1-organization-naming--setup)
+- [*Exercise: HTML semantics review*](https://github.com/acgd-webdev-2/exercise-reviews#2-html-semantics-review)
+- [*Exercise: CSS properties review*](https://github.com/acgd-webdev-2/exercise-reviews#3-css-properties-review)
 
 **Homework**
 
@@ -317,7 +316,4 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ## License & Copyright
 
-© Algonquin College Graphic Design — <http://algonquindesign.ca/>.<br>
-All code licensed under the [Unlicense](UNLICENSE).<br>
-All text, imagery, design, tutorials & videos licensed under the [CC BY-NC-SA License](http://creativecommons.org/licenses/by-nc-sa/4.0/).<br>
-Unless otherwise noted.
+[**☛ Refer the the license & copyright statement.**](https://github.com/acgd-summer-reviews/meta)
