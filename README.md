@@ -6,8 +6,6 @@
 
 [**Thomas J Bradley**](http://thomasjbradley.ca) — office: **J104** — [bradlet@algonquincollege.com](mailto:bradlet@algonquincollege.com)
 
-- [**Thomas’s schedule & office hours »**](http://thomasjbradley.ca/office-hours/)
-
 ---
 ---
 
