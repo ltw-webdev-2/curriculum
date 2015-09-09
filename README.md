@@ -15,7 +15,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 1. **Intros & reviews**
+### **1. Intros & reviews**
 
 **Review topics**
 
@@ -37,11 +37,11 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- [**Assignment 1: Semantics & styling—3 hours**](https://github.com/acgd-webdev-2/assignment-1-semantics-styling)
+- [**Assignment 1: Semantics & styling—3 hours**](https://github.com/acgd-webdev-2/assignment-1)
 
 ---
 
-### 2. **Devices & media queries**
+### **2. Devices & media queries**
 
 **Topics**
 
@@ -64,7 +64,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 3. **Media queries for large screens**
+### **3. Media queries for large screens**
 
 **Topics**
 
@@ -83,7 +83,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 4. **Project 1 work period**
+### **4. Project 1 work period**
 
 **In class**
 
@@ -96,7 +96,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 5. **Project 1 due**
+### **5. Project 1 due**
 
 **Topics**
 
@@ -109,7 +109,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 6. **Modular & responsive grids**
+### **6. Modular & responsive grids**
 
 **Topics**
 
@@ -133,7 +133,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 7. **Modular typography & spacing**
+### **7. Modular typography & spacing**
 
 **Topics**
 
@@ -154,7 +154,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 8. **Modular CSS**
+### **8. Modular CSS**
 
 **Topics**
 
@@ -176,7 +176,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 9. **Project 2 work period**
+### **9. Project 2 work period**
 
 **In class**
 
@@ -189,7 +189,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 10. **Project 2 due**
+### **10. Project 2 due**
 
 **Topics**
 
@@ -202,7 +202,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 11. **Accessibility**
+### **11. Accessibility**
 
 **Topics**
 
@@ -227,7 +227,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 12. **Forms & tables**
+### **12. Forms & tables**
 
 **Topics**
 
@@ -251,7 +251,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 13. **Performance**
+### **13. Performance**
 
 **Topics**
 
@@ -275,7 +275,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 14. **Project 3 work period**
+### **14. Project 3 work period**
 
 **In class**
 
@@ -288,7 +288,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 15. **Project 3 due**
+### 15. Project 3 due**
 
 **Topics**
 
@@ -314,4 +314,4 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ## License & Copyright
 
-[**☛ Refer the the license & copyright statement.**](https://github.com/acgd-summer-reviews/meta)
+[**☛ Refer the the license & copyright statement.**](https://github.com/acgd-webdev-2/meta)
