@@ -80,7 +80,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- [**Assignment 3: Large screens—2 hours**](https://github.com/acgd-webdev-2/assignment-3)
+- [**Assignment 3: Large screens—2 hours, in class**](https://github.com/acgd-webdev-2/assignment-3)
 - [**Project 1: Business card website—8 hours**](https://github.com/acgd-webdev-2/project-1)
 
 ---
@@ -173,7 +173,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 6: Modules—2 hours**
+- **Assignment 6: Modules—2 hours, in class**
 - **Project 2: SAAS website layouts—8 hours**
 
 ---
@@ -272,7 +272,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 9: Performance—2 hours**
+- **Assignment 9: Performance—2 hours, in class**
 - **Project 3: SAAS website graphic design—8 hours**
 
 ---
