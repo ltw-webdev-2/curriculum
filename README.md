@@ -60,7 +60,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 2: Medium screens—3 hours**
+- [**Assignment 2: Medium screens—3 hours**](https://github.com/acgd-webdev-2/assignment-2)
 
 ---
 
@@ -74,12 +74,14 @@ Below is the complete breakdown of everything that will be covered over the next
 
 - Demos: 
   - Media queries for larger screens
+  - Bigger fonts on bigger screens
+  - Maximum widths with wrappers
   - Print styles
 
 **Homework**
 
-- **Assignment 3: Large screens—3 hours**
-- **Project 1: Business card website—8 hours**
+- [**Assignment 3: Large screens—2 hours**](https://github.com/acgd-webdev-2/assignment-3)
+- [**Project 1: Business card website—8 hours**](https://github.com/acgd-webdev-2/project-1)
 
 ---
 
