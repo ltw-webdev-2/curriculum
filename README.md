@@ -89,7 +89,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Activity: Layout Model Chooser*
+- *Activity: Em Enforcer*
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
@@ -281,7 +281,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Activity*
+- *Activity: Media Query Manager*
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
