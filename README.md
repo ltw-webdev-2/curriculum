@@ -98,7 +98,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### **5. Project 1 due**
+### **5. Project 1 testing**
 
 **Topics**
 
@@ -191,7 +191,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### **10. Project 2 due**
+### **10. Project 2 testing**
 
 **Topics**
 
@@ -290,7 +290,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 ---
 
-### 15. Project 3 due**
+### 15. Project 3 testing**
 
 **Topics**
 
