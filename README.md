@@ -89,7 +89,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Activity: Em Enforcer*
+- [*Activity: Em Enforcer*](http://activities.learn-the-web.algonquindesign.ca/em-enforcer/)
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
