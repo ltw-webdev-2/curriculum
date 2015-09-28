@@ -113,7 +113,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- Browser testing, performance testing, peer testing
+- [*Peer testing sprint*](https://github.com/acgd-learn-the-web/peer-testing-sprint)
 
 ---
 
@@ -122,7 +122,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Topics**
 
 - [Grids](http://learn-the-web.algonquindesign.ca/topics/grids/)
-- **[Gridifier »](http://gridifier.web-dev.tools/)**
+- [**Gridifier »**](http://gridifier.web-dev.tools/)
 - [Gridifier cheat sheet](http://learn-the-web.algonquindesign.ca/topics/gridifier-cheat-sheet/)
 
 **In class**
@@ -146,7 +146,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Topics**
 
 - [Modular typography](http://learn-the-web.algonquindesign.ca/topics/modular-typography/)
-- **[Typografier »](http://typografier.web-dev.tools/)**
+- [**Typografier »**](http://typografier.web-dev.tools/)
 - [Typografier cheat sheet](http://learn-the-web.algonquindesign.ca/topics/typografier-cheat-sheet/)
 
 **In class**
@@ -206,7 +206,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- Browser testing, performance testing, peer testing
+- [*Peer testing sprint*](https://github.com/acgd-learn-the-web/peer-testing-sprint)
 
 ---
 
@@ -303,11 +303,11 @@ Below is the complete breakdown of everything that will be covered over the next
 - [Browser testing checklist](http://learn-the-web.algonquindesign.ca/topics/browser-testing-checklist/)
 - [Performance checklist](http://learn-the-web.algonquindesign.ca/topics/performance-checklist/)
 - [Accessibility checklist](http://learn-the-web.algonquindesign.ca/topics/accessibility-checklist/)
-- **[Launch checklist, Web Dev 2](http://learn-the-web.algonquindesign.ca/topics/launch-checklist-web-dev-2/)**
+- [**Launch checklist, Web Dev 2**](http://learn-the-web.algonquindesign.ca/topics/launch-checklist-web-dev-2/)
 
 **In class**
 
-- Browser testing, performance testing, peer testing, accessibility testing
+- [*Peer testing sprint*](https://github.com/acgd-learn-the-web/peer-testing-sprint)
 
 ---
 ---
