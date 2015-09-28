@@ -95,6 +95,12 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - Continue working on Project 1
+- **Download—and install—all these for next week:**
+  - [VirtualBox](https://www.virtualbox.org/)
+  - [IE10 on Win7 for VirtualBox](https://dev.modern.ie/tools/vms/mac/)
+  - [IE11 on Win8.1 for VirtualBox](https://dev.modern.ie/tools/vms/mac/)
+  - [Microsoft Edge on Win10 for VirtualBox](https://dev.modern.ie/tools/vms/mac/)
+- Make sure the following browsers on your computer are up-to-date: Chrome, Safari, Firefox, Opera
 
 ---
 
