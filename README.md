@@ -100,7 +100,7 @@ Below is the complete breakdown of everything that will be covered over the next
   - [IE10 on Win7 for VirtualBox](https://dev.modern.ie/tools/vms/mac/)
   - [IE11 on Win8.1 for VirtualBox](https://dev.modern.ie/tools/vms/mac/)
   - [Microsoft Edge on Win10 for VirtualBox](https://dev.modern.ie/tools/vms/mac/)
-- Make sure the following browsers on your computer are up-to-date: Chrome, Safari, Firefox, Opera
+- Make sure the following browsers on your computer are up-to-date: Chrome, Safari, Firefox, Opera.
 - If you have any other web connected devices (tablets, handheld gaming devices, etc.) bring those next week.
 
 ---
