@@ -128,17 +128,18 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Exercise: finding grids in web layouts*
+- [*Exercise: finding grids in web layouts*](https://github.com/acgd-webdev-2/exercise-finding-grids)
 - Demos:
   - Making flexible grids
   - Making elements with & without gutters
   - Making responsive grids
-  - Using grids
-  - Grid systems
+- *Exercise: using grids in web layouts* — complete the grids drawn on the board
+- Demos:
+  - Grid systems & [Gridifier »](http://gridifier.web-dev.tools/)
 
 **Homework**
 
-- **Assignment 4: Grids—3 hours**
+- [**Assignment 4: Grids—3 hours**](https://github.com/acgd-webdev-2/assignment-4)
 
 ---
 
