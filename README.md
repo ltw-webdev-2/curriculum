@@ -160,7 +160,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 5: Modular typography—2 hours**
+- [**Assignment 5: Modular typography—2 hours**](https://github.com/acgd-webdev-2/assignment-5)
 
 ---
 
