@@ -178,6 +178,7 @@ Below is the complete breakdown of everything that will be covered over the next
 - Demos:
   - List group
   - Embed containers
+  - Media objects
   - Buttons
 
 **Homework**
