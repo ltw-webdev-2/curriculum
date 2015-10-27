@@ -169,11 +169,12 @@ Below is the complete breakdown of everything that will be covered over the next
 **Topics**
 
 - [Modules](http://learn-the-web.algonquindesign.ca/topics/modules/)
-- [Modular website](http://learn-the-web.algonquindesign.ca/topics/modular-layout/)
+- [**Modulifier »**](http://modulifier.web-dev.tools/)
+- [Modulifier cheat sheet](http://learn-the-web.algonquindesign.ca/topics/modulifier-cheat-sheet/)
 
 **In class**
 
-- *Exercise: finding common patterns*
+<!-- - *Exercise: finding common patterns* -->
 - Demos:
   - List group
   - Embed containers
@@ -181,12 +182,17 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 6: Modules—2 hours, in class**
-- **Project 2: SAAS website layouts—8 hours**
+- [**Assignment 6: Modules—2 hours, in class**](https://github.com/acgd-webdev-2/assignment-6)
+- [**Project 2: SAAS website layouts—8 hours**](https://github.com/acgd-webdev-2/project-2)
 
 ---
 
 ### **9. Project 2 work period**
+
+**Topics**
+
+- [Interactive wireframes](http://learn-the-web.algonquindesign.ca/topics/interactive-wireframes/)
+- [Modular website](http://learn-the-web.algonquindesign.ca/topics/modular-layout/)
 
 **In class**
 
