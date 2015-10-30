@@ -275,7 +275,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 - [Performance](http://learn-the-web.algonquindesign.ca/topics/performance/)
 - [Performance checklist](http://learn-the-web.algonquindesign.ca/topics/performance-checklist/)
-- [Advanced performance](http://learn-the-web.algonquindesign.ca/topics/performance/) (resource compression)
+- [Advanced performance](http://learn-the-web.algonquindesign.ca/topics/advanced-performance/) (resource compression)
 
 **In class**
 
