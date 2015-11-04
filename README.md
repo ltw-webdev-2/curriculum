@@ -150,6 +150,7 @@ Below is the complete breakdown of everything that will be covered over the next
 - [Modular typography](http://learn-the-web.algonquindesign.ca/topics/modular-typography/)
 - [**Typografier »**](http://typografier.web-dev.tools/)
 - [Typografier cheat sheet](http://learn-the-web.algonquindesign.ca/topics/typografier-cheat-sheet/)
+- [Interactive wireframes](http://learn-the-web.algonquindesign.ca/topics/interactive-wireframes/)
 
 **In class**
 
@@ -192,7 +193,6 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Topics**
 
-- [Interactive wireframes](http://learn-the-web.algonquindesign.ca/topics/interactive-wireframes/)
 - [Modular website](http://learn-the-web.algonquindesign.ca/topics/modular-layout/)
 
 **In class**
