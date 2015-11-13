@@ -197,7 +197,6 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- [*Activity: Keyboard Commander*](http://activities.learn-the-web.algonquindesign.ca/keyboard-commander/)
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
@@ -229,7 +228,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- *Exercise: research accessibility topics*
+- [*Exercise: research accessibility topics*](https://github.com/acgd-webdev-2/exercise-research-accessibility-topics)
 - Demos:
   - Accessibility users
   - ARIA roles
@@ -237,11 +236,12 @@ Below is the complete breakdown of everything that will be covered over the next
   - Keyboard focus styles
   - Validation
   - Screen readers
-- *Exercise: using a screen reader*
+- [*Activity: Keyboard Commander*](http://activities.learn-the-web.algonquindesign.ca/keyboard-commander/)
+- [*Activity: VoiceOver Voyageur*](http://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/)
 
 **Homework**
 
-- **Assignment 7: Accessibility—2 hours**
+- [**Assignment 7: Accessibility—2 hours**](https://github.com/acgd-webdev-2/assignment-7)
 
 ---
 
