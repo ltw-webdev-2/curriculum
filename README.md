@@ -228,15 +228,15 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
+- [*Activity: Keyboard Commander*](http://activities.learn-the-web.algonquindesign.ca/keyboard-commander/)
 - [*Exercise: research accessibility topics*](https://github.com/acgd-webdev-2/exercise-research-accessibility-topics)
+- Videos of accessibility users
 - Demos:
-  - Accessibility users
   - ARIA roles
   - Skip links
   - Keyboard focus styles
   - Validation
   - Screen readers
-- [*Activity: Keyboard Commander*](http://activities.learn-the-web.algonquindesign.ca/keyboard-commander/)
 - [*Activity: VoiceOver Voyageur*](http://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/)
 
 **Homework**
