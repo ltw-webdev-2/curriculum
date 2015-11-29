@@ -289,7 +289,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Homework**
 
 - **Assignment 9: Performance—2 hours, in class**
-- **Project 3: SAAS website graphic design—8 hours**
+- **Project 3: SAAS website visual design—8 hours**
 
 ---
 
