@@ -265,7 +265,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 8: Sign-up form—3 hours**
+- [**Assignment 8: Sign-up form—3 hours**](https://github.com/acgd-webdev-2/assignment-8)
 
 ---
 
@@ -275,7 +275,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 - [Performance](http://learn-the-web.algonquindesign.ca/topics/performance/)
 - [Performance checklist](http://learn-the-web.algonquindesign.ca/topics/performance-checklist/)
-- [Advanced performance](http://learn-the-web.algonquindesign.ca/topics/advanced-performance/) (resource compression)
+- [Advanced performance](http://learn-the-web.algonquindesign.ca/topics/advanced-performance/) (resource compression only)
 
 **In class**
 
@@ -288,8 +288,8 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **Homework**
 
-- **Assignment 9: Performance—2 hours, in class**
-- **Project 3: SAAS website visual design—8 hours**
+- [**Assignment 9: Performance—2 hours, in class**](https://github.com/acgd-webdev-2/assignment-9)
+- [**Project 3: SAAS website visual design—8 hours**](https://github.com/acgd-webdev-2/project-3)
 
 ---
 
