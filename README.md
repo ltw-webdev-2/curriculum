@@ -72,7 +72,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- Demos: 
+- Demos:
   - Media queries for larger screens
   - Bigger fonts on bigger screens
   - Maximum widths with wrappers
@@ -89,7 +89,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- [*Activity: Em Enforcer*](http://activities.learn-the-web.algonquindesign.ca/em-enforcer/)
+- [*Activity: Em Enforcer*](https://activities.learn-the-web.algonquindesign.ca/em-enforcer/)
 - Work time, Q&A time, one-on-one feedback
 
 **Homework**
@@ -154,7 +154,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- Demos: 
+- Demos:
   - Generating a type system
   - Using sizes
   - Utility classes
@@ -228,7 +228,7 @@ Below is the complete breakdown of everything that will be covered over the next
 
 **In class**
 
-- [*Activity: Keyboard Commander*](http://activities.learn-the-web.algonquindesign.ca/keyboard-commander/)
+- [*Activity: Keyboard Commander*](https://activities.learn-the-web.algonquindesign.ca/keyboard-commander/)
 - [*Exercise: research accessibility topics*](https://github.com/acgd-webdev-2/exercise-research-accessibility-topics)
 - Videos of accessibility users
 - Demos:
@@ -237,7 +237,7 @@ Below is the complete breakdown of everything that will be covered over the next
   - Keyboard focus styles
   - Validation
   - Screen readers
-- [*Activity: VoiceOver Voyageur*](http://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/)
+- [*Activity: VoiceOver Voyageur*](https://activities.learn-the-web.algonquindesign.ca/voiceover-voyageur/)
 
 **Homework**
 
