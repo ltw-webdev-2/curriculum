@@ -123,7 +123,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Topics**
 
 - [Grids](http://learn-the-web.algonquindesign.ca/topics/grids/)
-- [**Gridifier »**](http://gridifier.web-dev.tools/)
+- [**Gridifier »**](https://gridifier.web-dev.tools/)
 - [Gridifier cheat sheet](http://learn-the-web.algonquindesign.ca/topics/gridifier-cheat-sheet/)
 
 **In class**
@@ -135,7 +135,7 @@ Below is the complete breakdown of everything that will be covered over the next
   - Making responsive grids
 - *Exercise: using grids in web layouts* — complete the grids drawn on the board
 - Demos:
-  - Grid systems & [Gridifier »](http://gridifier.web-dev.tools/)
+  - Grid systems & [Gridifier »](https://gridifier.web-dev.tools/)
 
 **Homework**
 
@@ -148,7 +148,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Topics**
 
 - [Modular typography](http://learn-the-web.algonquindesign.ca/topics/modular-typography/)
-- [**Typografier »**](http://typografier.web-dev.tools/)
+- [**Typografier »**](https://typografier.web-dev.tools/)
 - [Typografier cheat sheet](http://learn-the-web.algonquindesign.ca/topics/typografier-cheat-sheet/)
 - [Interactive wireframes](http://learn-the-web.algonquindesign.ca/topics/interactive-wireframes/)
 
@@ -170,7 +170,7 @@ Below is the complete breakdown of everything that will be covered over the next
 **Topics**
 
 - [Modules](http://learn-the-web.algonquindesign.ca/topics/modules/)
-- [**Modulifier »**](http://modulifier.web-dev.tools/)
+- [**Modulifier »**](https://modulifier.web-dev.tools/)
 - [Modulifier cheat sheet](http://learn-the-web.algonquindesign.ca/topics/modulifier-cheat-sheet/)
 
 **In class**
