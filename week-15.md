@@ -30,4 +30,5 @@ tasks:
     due: "Midnight, last day of term"
     graded-as: sass-website
     no-solution: true
+  - type: blank
 ---
