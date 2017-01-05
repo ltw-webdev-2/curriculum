@@ -26,5 +26,5 @@ tasks:
     url: using-gridifier
     type: lesson
   - title: "Grid layout"
-    # url: https://github.com/acgd-webdev-2/grid-layout
+    url: https://github.com/acgd-webdev-2/grid-layout
 ---

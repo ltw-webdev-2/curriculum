@@ -1,5 +1,5 @@
 ---
-topic: "Grids + modular type + CSS components"
+topic: "Everything modular!"
 desc: "Combine modular grids, type and CSS components together to get a website running quickly."
 clr: "1, 2, 3, 4"
 
@@ -23,8 +23,10 @@ tasks:
   - type: blank
   - type: blank
   - title: "Responsive photo gallery"
-    # url: "https://github.com/acgd-webdev-2/responsive-photo-gallery"
+    url: "https://github.com/acgd-webdev-2/responsive-photo-gallery"
+    disabled: true
   - title: "Icon navigation"
-    # url: "https://github.com/acgd-webdev-2/icon-navigation"
+    url: "https://github.com/acgd-webdev-2/icon-navigation"
+    disabled: true
   - type: watch-videos
 ---

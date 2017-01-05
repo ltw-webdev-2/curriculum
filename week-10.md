@@ -23,5 +23,7 @@ tasks:
   - type: blank
   - type: blank
   - title: "Volunteer form"
+    url: "https://github.com/acgd-webdev-2/volunteer-form"
+    disabled: true
   - type: watch-videos
 ---

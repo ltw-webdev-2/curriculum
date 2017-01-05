@@ -21,5 +21,6 @@ tasks:
     type: lesson
   - type: blank
   - title: "Events calendar"
-    # url: "https://github.com/acgd-webdev-2/events-calendar"
+    url: "https://github.com/acgd-webdev-2/events-calendar"
+    disabled: true
 ---

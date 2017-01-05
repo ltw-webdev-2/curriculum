@@ -23,7 +23,9 @@ tasks:
     url: using-a-type-system
     type: lesson
   - title: "Section"
-    # url: "https://github.com/acgd-webdev-2/section"
+    url: "https://github.com/acgd-webdev-2/section"
+    disabled: true
   - title: "Banner"
-    # url: "https://github.com/acgd-webdev-2/banner"
+    url: "https://github.com/acgd-webdev-2/banner"
+    disabled: true
 ---

@@ -24,11 +24,15 @@ slides:
   - title: "Web Dev 2 intro"
     url: intro
 
+group_activities:
+  - title: "Semantics schemantics"
+    type: pencil
+    pair: true
+    url: semantics-schemantics
+
 tasks:
   - type: blank
-  - title: "Submit GitHub account"
-    url: https://github.com/acgd-webdev-2/submit-github-account
-    type: basic
+  - type: blank
   - title: "HTML writer"
     url: "https://github.com/acgd-webdev-2/html-writer"
   - title: "Responsive image section"

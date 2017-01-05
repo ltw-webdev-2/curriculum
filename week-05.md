@@ -30,5 +30,6 @@ tasks:
   - type: blank
   - type: blank
   - title: "Content page"
-    # url: "https://github.com/acgd-webdev-2/content-page"
+    url: "https://github.com/acgd-webdev-2/content-page"
+    disabled: true
 ---

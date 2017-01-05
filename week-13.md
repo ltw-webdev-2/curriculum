@@ -17,9 +17,13 @@ tasks:
     type: activity
   - type: blank
   - title: "SASS website check-in"
+    url: "https://github.com/acgd-webdev-2/sass-website-check-in"
+    disabled: true
     type: paper
     no-solution: true
   - title: "SASS website"
+    url: "https://github.com/acgd-webdev-2/sass-website"
+    disabled: true
     due: "Midnight, last day of term"
     graded-as: sass-website
     no-solution: true
