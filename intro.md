@@ -64,7 +64,7 @@ slides:
       ## Always be coding
       Multiple activities & exercises every week
 
-      [**Week 2 tasks ➔**](/courses/web-dev-2/week-02/)
+      [**Week 1 tasks ➔**](/courses/web-dev-2/week-01/)
 
   - content: |
       ## Important links
