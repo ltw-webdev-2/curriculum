@@ -4,21 +4,16 @@ desc: "An overview of the course this term, assignments, projects and weekly tas
 clr: "1, 2"
 
 video_tutorials:
-  - title: "Everything from Set up"
-    url: "#setup"
-  - title: "Everything from Web Dev 1"
-    url: "#web-dev-1"
   - title: "HTML semantics cheat sheet"
     url: html-semantics-cheat-sheet
-    highlight: true
+  - title: "CSS layout cheat sheet"
+    url: css-layout-cheat-sheet
   - title: "All devices setup"
     url: all-devices-setup
-    highlight: true
   - title: "Screen sizes cheat sheet"
     url: screen-sizes-cheat-sheet
   - title: "Using Markbot"
     url: "/courses/web-dev-1/using-markbot/"
-    highlight: true
 
 slides:
   - title: "Web Dev 2 intro"
