@@ -27,6 +27,5 @@ tasks:
   - type: blank
   - title: "Grid-ception"
     url: https://github.com/acgd-webdev-2/grid-ception
-    disabled: true
   - type: watch-videos
 ---

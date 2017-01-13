@@ -24,8 +24,6 @@ tasks:
     type: lesson
   - title: "Section"
     url: "https://github.com/acgd-webdev-2/section"
-    disabled: true
   - title: "Banner"
     url: "https://github.com/acgd-webdev-2/banner"
-    disabled: true
 ---
