@@ -17,12 +17,6 @@ video_tutorials:
     url: typografier-cheat-sheet
     highlight: true
 
-group_activities:
-  - title: "Sketching websites"
-    url: sketching-websites
-    type: pencil
-    pair: true
-
 tasks:
   - title: "Type Trasher"
     url: "https://activities.learn-the-web.algonquindesign.ca/type-trasher/"

@@ -17,6 +17,12 @@ video_tutorials:
     url: typografier-cheat-sheet
     highlight: true
 
+group_activities:
+  - title: "Sketching websites"
+    url: sketching-websites
+    type: pencil
+    pair: true
+
 tasks:
   - title: "Grid Genius"
     url: "https://activities.learn-the-web.algonquindesign.ca/grid-genius/"
