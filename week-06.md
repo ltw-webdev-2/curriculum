@@ -22,6 +22,7 @@ group_activities:
     url: sketching-websites
     type: pencil
     pair: true
+    no-solution: true
 
 tasks:
   - title: "Grid Genius"
