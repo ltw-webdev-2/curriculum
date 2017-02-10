@@ -22,5 +22,4 @@ tasks:
   - type: blank
   - title: "Registration form"
     url: "https://github.com/acgd-webdev-2/registration-form"
-    disabled: true
 ---

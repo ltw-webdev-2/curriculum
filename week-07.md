@@ -25,8 +25,6 @@ tasks:
   - type: blank
   - title: "Icons"
     url: "https://github.com/acgd-webdev-2/icons"
-    disabled: true
   - title: "List groups"
     url: "https://github.com/acgd-webdev-2/list-groups"
-    disabled: true
 ---

@@ -24,9 +24,7 @@ tasks:
   - type: blank
   - title: "Responsive photo gallery"
     url: "https://github.com/acgd-webdev-2/responsive-photo-gallery"
-    disabled: true
   - title: "Icon navigation"
     url: "https://github.com/acgd-webdev-2/icon-navigation"
-    disabled: true
   - type: watch-videos
 ---

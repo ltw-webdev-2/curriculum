@@ -31,9 +31,7 @@ tasks:
   - type: blank
   - title: "Modular nav"
     url: "https://github.com/acgd-webdev-2/modular-nav"
-    disabled: true
   - title: "Lists ’n’ grids"
     url: "https://github.com/acgd-webdev-2/lists-n-grids"
-    disabled: true
   - type: watch-videos
 ---
