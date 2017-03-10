@@ -6,7 +6,6 @@ clr: "1, 2, 5"
 video_tutorials:
   - title: "Forms"
     url: forms
-    videos: true
   - title: "Forms cheat sheet"
     url: forms-cheat-sheet
     highlight: true

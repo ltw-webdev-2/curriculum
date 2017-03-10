@@ -13,6 +13,7 @@ video_tutorials:
 
 slides:
   - title: "Forms"
+    url: forms
 
 tasks:
   - type: blank

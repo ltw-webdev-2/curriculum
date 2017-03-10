@@ -13,6 +13,7 @@ video_tutorials:
 
 slides:
   - title: "Tables"
+    url: tables
 
 tasks:
   - type: blank
@@ -22,5 +23,4 @@ tasks:
   - type: blank
   - title: "Events calendar"
     url: "https://github.com/acgd-webdev-2/events-calendar"
-    disabled: true
 ---

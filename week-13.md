@@ -1,6 +1,6 @@
 ---
-topic: "SASS website progress"
-desc: "Start your SASS website by sketching, writing some text & starting to code."
+topic: "SAAS website progress"
+desc: "Start your SAAS website by sketching, writing some text & starting to code."
 clr: "1, 2, 3, 4, 5, 6, 7"
 
 video_tutorials:
@@ -16,15 +16,12 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/module-mogul/"
     type: activity
   - type: blank
-  - title: "SASS website check-in"
-    url: "https://github.com/acgd-webdev-2/sass-website-check-in"
-    disabled: true
+  - title: "SAAS website check-in"
+    url: "https://github.com/acgd-webdev-2/saas-website-check-in"
     type: paper
     no-solution: true
-  - title: "SASS website"
-    url: "https://github.com/acgd-webdev-2/sass-website"
-    disabled: true
-    due: "Midnight, last day of term"
-    graded-as: sass-website
+  - title: "SAAS website"
+    url: "https://github.com/acgd-webdev-2/saas-website"
+    graded-as: saas-website
     no-solution: true
 ---
