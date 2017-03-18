@@ -1,6 +1,6 @@
 ---
-topic: "SAAS website completion"
-desc: "Finish the SAAS website by the end of the term."
+topic: "SaaS website completion"
+desc: "Finish the SaaS website by the end of the term."
 clr: "1, 2, 3, 4, 5, 6, 7"
 
 video_tutorials:
@@ -24,7 +24,7 @@ tasks:
     due: "Midnight, last day of term"
     type: basic
     graded-as: false
-  - title: "SAAS website"
+  - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
     due: "Midnight, last day of term"
     graded-as: saas-website

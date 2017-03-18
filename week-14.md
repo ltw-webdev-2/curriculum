@@ -1,6 +1,6 @@
 ---
-topic: "SAAS website testing"
-desc: "Peer test everybody’s SAAS website on variety of platforms and devices."
+topic: "SaaS website testing"
+desc: "Peer test everybody’s SaaS website on variety of platforms and devices."
 clr: "1, 2, 3, 4, 5, 6, 7"
 
 video_tutorials:
@@ -28,7 +28,7 @@ tasks:
     url: /courses/web-dev-1/browser-testing/
     submit: "Submit nothing."
     pair: true
-  - title: "SAAS website"
+  - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
     due: "Midnight, last day of term"
     graded-as: saas-website
