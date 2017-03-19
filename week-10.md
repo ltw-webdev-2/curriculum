@@ -10,10 +10,10 @@ video_tutorials:
     url: forms-cheat-sheet
     highlight: true
 
-group_activities:
-  - title: "Finding & grouping fields"
-    pair: true
-    type: pencil
+# group_activities:
+#   - title: "Finding & grouping fields"
+#     pair: true
+#     type: pencil
 
 tasks:
   - title: "Form Finalizer"
@@ -23,6 +23,5 @@ tasks:
   - type: blank
   - title: "Volunteer form"
     url: "https://github.com/acgd-webdev-2/volunteer-form"
-    disabled: true
   - type: watch-videos
 ---
