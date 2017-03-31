@@ -457,7 +457,7 @@ steps:
 
           @media only screen and (min-width: 60em) {
 
-            .table-wrap {
+            .table-wrapper {
               overflow: visible;
             }
 
