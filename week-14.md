@@ -24,10 +24,7 @@ group_activities:
 tasks:
   - type: blank
   - type: blank
-  - title: "Browser testing"
-    url: /courses/web-dev-1/browser-testing/
-    submit: "Submit nothing."
-    pair: true
+  - type: blank
   - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
     due: "Midnight, last day of term"

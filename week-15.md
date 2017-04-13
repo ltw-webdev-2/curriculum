@@ -18,7 +18,10 @@ video_tutorials:
 
 tasks:
   - type: blank
-  - type: blank
+  - title: "Browser testing"
+    url: /courses/web-dev-1/browser-testing/
+    submit: "Submit nothing."
+    pair: true
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-2/request-for-grade"
     due: "Midnight, last day of term"
