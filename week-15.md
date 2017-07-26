@@ -24,12 +24,12 @@ tasks:
     pair: true
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-2/request-for-grade"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     type: basic
     graded-as: false
   - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     graded-as: saas-website
     no-solution: true
   - type: blank

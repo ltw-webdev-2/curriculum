@@ -22,7 +22,7 @@ tasks:
     no-solution: true
   - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
-    due: "Midnight, last day of term"
+    due: "Midnight, last day of class"
     graded-as: saas-website
     no-solution: true
 ---
