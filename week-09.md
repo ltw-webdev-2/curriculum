@@ -20,7 +20,9 @@ tasks:
   - title: "Contact form"
     url: contact-form
     type: lesson
-  - type: blank
   - title: "Registration form"
     url: "https://github.com/acgd-webdev-2/registration-form"
+  - title: "Volunteer form"
+    url: "https://github.com/acgd-webdev-2/volunteer-form"
+  - type: watch-videos
 ---

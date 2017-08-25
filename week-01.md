@@ -14,6 +14,8 @@ video_tutorials:
     url: screen-sizes-cheat-sheet
   - title: "Using Markbot"
     url: "/courses/web-dev-1/using-markbot/"
+  - title: "Validators"
+    url: validators
 
 slides:
   - title: "Web Dev 2 intro"
@@ -26,7 +28,9 @@ group_activities:
     url: semantics-schemantics
 
 tasks:
-  - type: blank
+  - title: "Validation Verifier"
+    url: https://activities.learn-the-web.algonquindesign.ca/validation-verifier/
+    type: activity
   - type: blank
   - title: "HTML writer"
     url: "https://github.com/acgd-webdev-2/html-writer"

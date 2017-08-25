@@ -12,13 +12,16 @@ video_tutorials:
   - title: "Modulifier cheat sheet"
     url: modulifier-cheat-sheet
     highlight: true
+  - title: "Commit message conventions"
+    url: commit-messages
 
 slides:
   - title: "Modular CSS"
     url: modular-css
 
 tasks:
-  - type: blank
+  - title: "Commit Connoisseur"
+    type: activity
   - title: "Button systems"
     url: button-systems
     type: lesson

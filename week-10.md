@@ -1,27 +1,36 @@
 ---
-topic: "Complex forms"
-desc: "Look at creating more complex & large interactive forms."
-clr: "1, 2, 5"
+topic: "Tables"
+desc: "Code complexly formatted data charts using the HTML table element."
+clr: "1, 2, 6"
 
 video_tutorials:
-  - title: "Forms"
-    url: forms
+  - title: "Tables"
+    url: tables
+    videos: true
+  - title: "Tables cheat sheet"
+    url: tables-cheat-sheet
+    highlight: true
   - title: "Forms cheat sheet"
     url: forms-cheat-sheet
-    highlight: true
 
-# group_activities:
-#   - title: "Finding & grouping fields"
-#     pair: true
-#     type: pencil
+slides:
+  - title: "Tables"
+    url: tables
+
+group_activities:
+  - title: "Finding & grouping fields"
+    pair: true
+    type: pencil
 
 tasks:
   - title: "Form Finalizer"
     url: "https://activities.learn-the-web.algonquindesign.ca/form-finalizer/"
     type: activity
+  - title: "Data table"
+    url: data-table
+    type: lesson
   - type: blank
-  - type: blank
-  - title: "Volunteer form"
-    url: "https://github.com/acgd-webdev-2/volunteer-form"
+  - title: "Events calendar"
+    url: "https://github.com/acgd-webdev-2/events-calendar"
   - type: watch-videos
 ---

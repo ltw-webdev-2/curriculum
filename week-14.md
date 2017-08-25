@@ -1,7 +1,7 @@
 ---
 topic: "SaaS website testing"
 desc: "Peer test everybody’s SaaS website on variety of platforms and devices."
-clr: "1, 2, 3, 4, 5, 6, 7"
+clr: "1, 2, 3, 4, 5, 6, 7, 8"
 
 video_tutorials:
   - title: "Gridifier cheat sheet"
@@ -15,6 +15,14 @@ video_tutorials:
   - title: "Browser testing checklist"
     url: browser-testing-checklist
     highlight: true
+  - title: "Accessibility"
+    url: accessibility
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+    highlight: true
+  - title: "Accessibility testing checklist"
+    url: accessibility-testing-checklist
+    highlight: true
 
 group_activities:
   - title: "Course feedback"
@@ -22,9 +30,14 @@ group_activities:
     type: star
 
 tasks:
+  - title: "Accessibility Atomizer"
+    type: activity
   - type: blank
-  - type: blank
-  - type: blank
+  - title: "SaaS website accessibility testing"
+    url: "https://github.com/acgd-webdev-2/saas-website-accessibility-testing"
+    pair: true
+    no-solution: true
+    disabled: true
   - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
     due: "Midnight, last day of class"

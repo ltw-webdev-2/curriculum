@@ -17,12 +17,17 @@ video_tutorials:
     url: typografier-cheat-sheet
     highlight: true
 
+group_activities:
+  - title: "Why the (type) face?"
+    pair: true
+    type: pencil
+
 tasks:
   - title: "Type Trasher"
     url: "https://activities.learn-the-web.algonquindesign.ca/type-trasher/"
     type: activity
   - type: blank
-  - type: blank
+  - title: "Trendy fruit"
   - title: "Content page"
     url: "https://github.com/acgd-webdev-2/content-page"
 ---

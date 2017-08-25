@@ -23,7 +23,7 @@ tasks:
     url: https://activities.learn-the-web.algonquindesign.ca/fraction-fragmenter/
     type: activity
   - type: blank
-  - type: blank
+  - title: "Hot grid-dle"
   - title: "Grid-ception"
     url: https://github.com/acgd-webdev-2/grid-ception
   - type: watch-videos

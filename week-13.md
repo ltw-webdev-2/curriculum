@@ -1,7 +1,7 @@
 ---
 topic: "SaaS website progress"
 desc: "Start your SaaS website by sketching, writing some text & starting to code."
-clr: "1, 2, 3, 4, 5, 6, 7"
+clr: "1, 2, 3, 4, 5, 6, 7, 8"
 
 video_tutorials:
   - title: "Gridifier cheat sheet"
@@ -18,7 +18,8 @@ tasks:
   - type: blank
   - title: "SaaS website check-in"
     url: "https://github.com/acgd-webdev-2/saas-website-check-in"
-    type: paper
+    button: activity
+    type: basic
     no-solution: true
   - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"

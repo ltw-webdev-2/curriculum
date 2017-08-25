@@ -18,7 +18,9 @@ slides:
     url: modular-type
 
 tasks:
-  - type: blank
+  - title: "Media Query Manager"
+    url: https://activities.learn-the-web.algonquindesign.ca/media-query-manager/
+    type: activity
   - title: "Using a type system"
     url: using-a-type-system
     type: lesson

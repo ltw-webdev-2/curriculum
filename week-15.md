@@ -1,7 +1,7 @@
 ---
 topic: "SaaS website completion"
 desc: "Finish the SaaS website by the end of the term."
-clr: "1, 2, 3, 4, 5, 6, 7"
+clr: "1, 2, 3, 4, 5, 6, 7, 8"
 
 video_tutorials:
   - title: "Gridifier cheat sheet"
@@ -22,6 +22,8 @@ tasks:
     url: /courses/web-dev-1/browser-testing/
     submit: "Submit nothing."
     pair: true
+    button: activity
+    type: basic
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-2/request-for-grade"
     due: "Midnight, last day of class"

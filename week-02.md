@@ -12,13 +12,17 @@ video_tutorials:
   - title: "Gridifier cheat sheet"
     url: gridifier-cheat-sheet
     highlight: true
+  - title: "The Open Web"
+    url: the-open-web
 
 slides:
   - title: "Grid systems"
     url: grid-systems
 
 tasks:
-  - type: blank
+  - title: "Definition Devastator"
+    url: https://activities.learn-the-web.algonquindesign.ca/definition-devastator/
+    type: activity
   - title: "Making responsive grids"
     url: making-responsive-grids
     type: lesson

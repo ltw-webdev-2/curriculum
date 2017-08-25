@@ -1,7 +1,7 @@
 ---
 topic: "SaaS website planning"
 desc: "Start your SaaS website by sketching, writing some text & starting to code."
-clr: "1, 2, 3, 4, 5, 6, 7"
+clr: "1, 2, 3, 4, 5, 6, 7, 8"
 
 video_tutorials:
   - title: "Gridifier cheat sheet"
@@ -10,6 +10,8 @@ video_tutorials:
     url: typografier-cheat-sheet
   - title: "Modulifier cheat sheet"
     url: modulifier-cheat-sheet
+  - title: "Tables cheat sheet"
+    url: tables-cheat-sheet
 
 tasks:
   - title: "Table Tabulator"
