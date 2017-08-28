@@ -33,6 +33,15 @@ slides:
         <br>*Different input types, capturing information, organization*
 
   - content: |
+      ## Final project
+
+      - Theme: Software as a Service
+      - Collaboration with Interaction Design
+      - Multi-page website, integrating everything from this and previous terms
+      - ~4 weeks to complete
+      - Fully responsive, designed & complete website
+
+  - content: |
       ## High expectations
 
       *Coding is a different mindset—and will be difficult for most*
