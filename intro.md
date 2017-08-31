@@ -10,18 +10,10 @@ slides:
 
   - content: |
       ## Melissa Roy
+
       *Gamer chick*
 
       [roym@algonquincollege.com](mailto:roym@algonquincollege.com)
-
-  - content: |
-      ## TAs
-
-      *Available in class and during labs*
-
-      - Kayla
-      - Kelly
-      - Matt
 
   - content: |
       ## What we’re learning
@@ -53,11 +45,9 @@ slides:
       - Watch the videos before class
 
   - content: |
-      ## Office hours
-      *By appointment only.*
+      ## Labs & TAs
 
-  - content: |
-      ## Labs
+      **TAs in class & scheduled work labs**
 
       - 1 hour work labs
       - Scheduled outside class
@@ -71,6 +61,7 @@ slides:
 
   - content: |
       ## Always be coding
+
       Multiple activities & exercises every week
 
       [**Week 1 tasks ➔**](/courses/web-dev-2/week-01/)
@@ -83,6 +74,7 @@ slides:
 
   - content: |
       ## Sticky note triage
+
       Specify your working status by sticking sticky notes on your monitor
 
       ![](sticky-notes.svg)
