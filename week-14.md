@@ -40,7 +40,9 @@ tasks:
     disabled: true
   - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
-    due: "Midnight, last day of class"
     graded-as: saas-website
+    due: "Midnight, last day of class"
+    due_week: 15
+    due_time: "23:59"
     no-solution: true
 ---
