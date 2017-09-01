@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Modular type"
+desc: "An introduction to modular typography for websites and a tool, Typografier, to help simplify use."
 
 slides:
   - type: super-big-text

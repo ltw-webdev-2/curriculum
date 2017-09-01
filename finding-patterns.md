@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Finding patterns"
+desc: "A small group activity to practice finding different modular CSS patterns in websites."
+
+group_work: true
 
 slides:
   - type: super-big-text

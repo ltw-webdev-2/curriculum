@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Grid systems"
+desc: "An introduction to using grid systems on websites and a look at Gridifier, a tool to help generate custom grid systems."
 
 slides:
   - type: super-big-text

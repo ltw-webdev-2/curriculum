@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Forms"
+desc: "An introduction to use HTML form elements to collect information from users."
 
 slides:
 

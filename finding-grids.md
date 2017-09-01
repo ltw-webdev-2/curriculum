@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Finding grids"
+desc: "A small group activity to practice drawing and finding grids and units on a responsive webpage."
+
+group_work: true
 
 slides:
   - type: super-big-text

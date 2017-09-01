@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Semantics schemantics"
+desc: "A quick review activity on HTML semantics and content understanding."
+
+group_work: true
 
 slides:
   - type: super-big-text

@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Modular CSS"
+desc: "A introduction to Modular CSS, writing code for patterns, and a tool, Modulifier, to help simplify use."
 
 slides:
   - type: super-big-text

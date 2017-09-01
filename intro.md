@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Web Dev 2 intro"
+desc: "A quick introduction to Web Dev 2, explaining what’s covered, expectations & marking scheme."
 
 slides:
   - type: super-big-text

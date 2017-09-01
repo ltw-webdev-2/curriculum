@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Tables"
+desc: "A quick introduction to HTML table syntax and styling."
 
 slides:
   - type: super-big-text

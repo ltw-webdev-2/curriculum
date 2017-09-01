@@ -1,7 +1,9 @@
 ---
 layout: slide-deck
-
 title: "Sketching websites"
+desc: "A group activity to help understand page layout with modular CSS by sketching the pieces on paper."
+
+group_work: true
 
 slides:
   - type: super-big-text
