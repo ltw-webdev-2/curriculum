@@ -27,7 +27,7 @@ slides:
   - content: |
       ## Final project
 
-      - Theme: Software as a Service
+      - Theme: *Software as a Service*
       - Collaboration with Interaction Design
       - Multi-page website, integrating everything from this and previous terms
       - ~4 weeks to complete
@@ -51,6 +51,7 @@ slides:
 
       - 1 hour work labs
       - Scheduled outside class
+      - Watch videos
       - Get help from TAs
       - Attendance expected
 
