@@ -21,6 +21,7 @@ tasks:
     button: activity
     type: basic
     no-solution: true
+    submit: show
   - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
     graded-as: saas-website
