@@ -35,7 +35,13 @@ tasks:
     type: lesson
     disabled: true
   - title: "Accessibility fixer-upper"
-    url: "https://github.com/acgd-webdev-3/accessibility-fixer-upper"
+    url: "https://github.com/acgd-webdev-2/accessibility-fixer-upper"
     disabled: true
   - title: "All the humans"
+    url: "https://github.com/acgd-webdev-2/all-the-humans"
+    disabled: true
+    # Fixing colours & contrast for colour blindness
+  - title: "More than just colours"
+    url: "https://github.com/acgd-webdev-2/more-than-just-colours"
+    disabled: true
 ---

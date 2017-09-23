@@ -26,5 +26,6 @@ tasks:
     url: "https://github.com/acgd-webdev-2/responsive-photo-gallery"
   - title: "Icon navigation"
     url: "https://github.com/acgd-webdev-2/icon-navigation"
-  - type: watch-videos
+  - title: "Icon cards"
+    url: "https://github.com/acgd-webdev-2/icon-cards"
 ---

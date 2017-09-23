@@ -15,6 +15,11 @@ slides:
   - title: "Forms"
     url: forms
 
+group_activities:
+  - title: "Finding & grouping fields"
+    pair: true
+    type: pencil
+
 tasks:
   - type: blank
   - title: "Contact form"

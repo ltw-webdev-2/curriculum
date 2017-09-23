@@ -25,7 +25,8 @@ tasks:
   - title: "Button systems"
     url: button-systems
     type: lesson
-  - type: blank
+  - title: "Embed containers"
+    url: "https://github.com/acgd-webdev-2/embed-containers"
   - title: "Icons"
     url: "https://github.com/acgd-webdev-2/icons"
   - title: "List groups"

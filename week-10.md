@@ -17,11 +17,6 @@ slides:
   - title: "Tables"
     url: tables
 
-group_activities:
-  - title: "Finding & grouping fields"
-    pair: true
-    type: pencil
-
 tasks:
   - title: "Form Finalizer"
     url: "https://activities.learn-the-web.algonquindesign.ca/form-finalizer/"
@@ -29,8 +24,11 @@ tasks:
   - title: "Data table"
     url: data-table
     type: lesson
-  - type: blank
   - title: "Events calendar"
     url: "https://github.com/acgd-webdev-2/events-calendar"
+    # A huge table with lots of information, columns, footers, headers, etc.
+  - title: "More than just datum"
+    url: "https://github.com/acgd-webdev-2/more-than-just-datum"
+    disabled: true
   - type: watch-videos
 ---
