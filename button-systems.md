@@ -4,6 +4,8 @@ title: "Button systems"
 desc: "Explore how to use and change the default set of buttons provided by Modulifier."
 
 extra_tutorials:
+  - title: "Modular CSS slide deck"
+    url: "/courses/web-dev-2/modular-css/"
   - title: "Modules"
     url: modules
   - title: "Modulifier"

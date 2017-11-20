@@ -1,47 +1,37 @@
 ---
-topic: "Accessibility"
-desc: "The web is for all humans—explore the small changes needed to make that a reality."
-clr: "1, 2, 4, 7"
+topic: "Tables"
+desc: "Code complexly formatted data charts using the HTML table element."
+clr: "1, 2, 6"
 
 video_tutorials:
-  - title: "Accessibility"
-    url: accessibility
+  - title: "Tables"
+    url: tables
     videos: true
-  - title: "Accessibility checklist"
-    url: accessibility-checklist
+  - title: "Tables cheat sheet"
+    url: tables-cheat-sheet
     highlight: true
-  - title: "Accessibility testing checklist"
-    url: accessibility-testing-checklist
-    highlight: true
+  - title: "Forms cheat sheet"
+    url: forms-cheat-sheet
 
 slides:
-  - title: "Accessibility"
-    url: accessibility
-    disabled: true
-
-group_activities:
-  - title: "Text me slowly"
-    # Describing actions, describing interfaces, ARIA?, alt attributes
-    type: pencil
-    pair: true
-
-next_week_notes:
-  - "Please bring headphones to next class."
+  - title: "Tables"
+    url: tables
 
 tasks:
-  - type: blank
-  - title: "Basic accessibility"
-    url: basic-accessibility
+  - title: "Form Finalizer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/form-finalizer/"
+    type: activity
+  - title: "Data table"
+    url: data-table
     type: lesson
+    submit: code
     disabled: true
-  - title: "Accessibility fixer-upper"
-    url: "https://github.com/acgd-webdev-2/accessibility-fixer-upper"
+  - title: "Events calendar"
+    url: "https://github.com/acgd-webdev-2/events-calendar"
     disabled: true
-  - title: "All the humans"
-    url: "https://github.com/acgd-webdev-2/all-the-humans"
+  - title: "More than just datum"
+    # A huge table with lots of information, columns, footers, headers, etc.
+    url: "https://github.com/acgd-webdev-2/more-than-just-datum"
     disabled: true
-    # Fixing colours & contrast for colour blindness
-  - title: "More than just colours"
-    url: "https://github.com/acgd-webdev-2/more-than-just-colours"
-    disabled: true
+  - type: watch-videos
 ---

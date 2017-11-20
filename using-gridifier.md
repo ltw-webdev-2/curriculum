@@ -4,6 +4,8 @@ title: "Using Gridifier"
 desc: "A quick look at using a generated grid from Gridifier in your website to simplify making responsive layouts."
 
 extra_tutorials:
+  - title: "Grid systems slide deck"
+    url: "/courses/web-dev-2/grid-systems/"
   - title: "Grids"
     url: grids
   - title: "Gridifier"

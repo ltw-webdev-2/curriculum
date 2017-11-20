@@ -29,7 +29,7 @@ group_activities:
 
 tasks:
   - title: "Validation Verifier"
-    url: https://activities.learn-the-web.algonquindesign.ca/validation-verifier/
+    url: "https://activities.learn-the-web.algonquindesign.ca/validation-verifier/"
     type: activity
   - type: blank
   - title: "HTML writer"

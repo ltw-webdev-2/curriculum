@@ -4,6 +4,8 @@ title: "Contact form"
 desc: "Create a functional website contact form using Formspree as the message sender."
 
 extra_tutorials:
+  - title: "Forms slide deck"
+    url: "/courses/web-dev-2/forms/"
   - title: "Forms"
     url: forms
   - title: "Forms cheat sheet"
@@ -122,7 +124,7 @@ steps:
         text: |
           A `<button>` tag is used to submit the form’s information. It cannot link to another page.
 
-          Without the `type="submit"~ attribute the button won’t actually submit the form—it’ll require Javascript to be functional.
+          Without the `type="submit"~ attribute the button won’t actually submit the form—it’ll require JavaScript to be functional.
     after: |
       After writing out that HTML, this is what we should see:
 
@@ -243,7 +245,7 @@ steps:
     before: |
       Now that our form looks good we’re going to hook it into [Formspree](https://formspree.io/) so that our messages actually send.
 
-      With HTML only our forms don’t do anything. We can do some processing with Javascript but without a backend server we can’t send emails. So Formspree is going to be our backend server.
+      With HTML only our forms don’t do anything. We can do some processing with JavaScript but without a backend server we can’t send emails. So Formspree is going to be our backend server.
     code_lang: "html"
     code_file: "index.html"
     code: |

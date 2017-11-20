@@ -1,34 +1,18 @@
 ---
-topic: "Modular CSS"
-desc: "Reduce CSS clutter and repetition by using modular CSS ideas and pre-built components."
+# topic: "Reading week—no classes"
+topic: "Work week"
+# during_class: "No class"
+# desc: "No classes, labs or new homework this week—get caught up!"
+desc: "Work classes to get caught up and ready for the final push to the end of the term!"
 clr: "1, 2, 3, 4"
 
-video_tutorials:
-  - title: "Modules"
-    url: modules
-    videos: true
-  - title: "Modulifier"
-    url: "https://modulifier.web-dev.tools/"
-  - title: "Modulifier cheat sheet"
-    url: modulifier-cheat-sheet
-    highlight: true
-  - title: "Commit message conventions"
-    url: commit-messages
-
-slides:
-  - title: "Modular CSS"
-    url: modular-css
+# no_lab_times: true
+# no_office_hours: true
 
 tasks:
-  - title: "Commit Connoisseur"
-    type: activity
-  - title: "Button systems"
-    url: button-systems
-    type: lesson
-  - title: "Embed containers"
-    url: "https://github.com/acgd-webdev-2/embed-containers"
-  - title: "Icons"
-    url: "https://github.com/acgd-webdev-2/icons"
-  - title: "List groups"
-    url: "https://github.com/acgd-webdev-2/list-groups"
+  - type: blank
+  - type: blank
+  - type: blank
+  - type: blank
+  - type: watch-videos
 ---

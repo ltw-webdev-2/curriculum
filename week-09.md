@@ -1,33 +1,34 @@
 ---
-topic: "Forms"
-desc: "Discover how to code interactive fillable forms."
-clr: "1, 2, 5"
+topic: "Everything modular!"
+desc: "Combine modular grids, type and CSS components together to get a website running quickly."
+clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "Forms"
-    url: forms
-    videos: true
-  - title: "Forms cheat sheet"
-    url: forms-cheat-sheet
-    highlight: true
-
-slides:
-  - title: "Forms"
-    url: forms
+  - title: "Modular website layout"
+    url: modular-layout
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
 
 group_activities:
-  - title: "Finding & grouping fields"
+  - title: "Finding patterns"
+    url: finding-patterns
     pair: true
     type: pencil
 
 tasks:
   - type: blank
-  - title: "Contact form"
-    url: contact-form
-    type: lesson
-  - title: "Registration form"
-    url: "https://github.com/acgd-webdev-2/registration-form"
-  - title: "Volunteer form"
-    url: "https://github.com/acgd-webdev-2/volunteer-form"
-  - type: watch-videos
+  - type: blank
+  - title: "Responsive photo gallery"
+    url: "https://github.com/acgd-webdev-2/responsive-photo-gallery"
+    disabled: true
+  - title: "Icon navigation"
+    url: "https://github.com/acgd-webdev-2/icon-navigation"
+    disabled: true
+  - title: "Icon cards"
+    url: "https://github.com/acgd-webdev-2/icon-cards"
+    disabled: true
 ---

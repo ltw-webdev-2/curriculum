@@ -4,6 +4,8 @@ title: "Using a type system"
 desc: "A quick look at using a generated type system from Typografier in your website to simplify making responsive layouts."
 
 extra_tutorials:
+  - title: "Modular type slide deck"
+    url: "/courses/web-dev-2/modular-type/"
   - title: "Modular typography"
     url: modular-typography
   - title: "Typografier"

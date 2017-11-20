@@ -4,6 +4,8 @@ title: "Data table"
 desc: "Create a chart of data using HTML table elements."
 
 extra_tutorials:
+  - title: "Tables slide deck"
+    url: "/courses/web-dev-2/tables/"
   - title: "Tables"
     url: tables
   - title: "Tables cheat sheet"
@@ -391,7 +393,7 @@ steps:
       - Make the table horizontally scrollable
       - Hide the table on small screens & show an alternative layout
       - Use the CSS `display` property to overwrite the table into `inline` & `block` on small screen
-      - Use Javascript to hide non-critical columns and allow people to hide & show the columns
+      - Use JavaScript to hide non-critical columns and allow people to hide & show the columns
 
       Well, we’re going to go with the horizontally scrollable table. It’s simple to implement and has okay user experience, but not as optimized as some of the other solutions.
 

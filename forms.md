@@ -15,8 +15,8 @@ slides:
       *Collecting user information*
 
       - HTML by itself cannot do anything with the data
-      - Most often a server is needed to process the information—and a server language: PHP, Ruby, Python, Javascript, etc.
-      - But Javascript can do quite a bit of processing in the browser
+      - Most often a server is needed to process the information—and a server language: PHP, Ruby, Python, JavaScript, etc.
+      - But JavaScript can do quite a bit of processing in the browser
 
   - content: |
       ## Do not use forms unless absolutely necessary

@@ -9,11 +9,11 @@ slides:
       **Web Dev 2**
 
   - content: |
-      ## Melissa Roy
+      ## Chelle Lorenzen
 
-      *Gamer chick*
+      *Super hero*
 
-      [roym@algonquincollege.com](mailto:roym@algonquincollege.com)
+      [vandemm@algonquincollege.com](mailto:vandemm@algonquincollege.com)
 
   - content: |
       ## What we’re learning
@@ -23,6 +23,9 @@ slides:
 
       - Forms
         <br>*Different input types, capturing information, organization*
+
+      - Accessibility
+        <br>*Making our websites work for everybody*
 
   - content: |
       ## Final project

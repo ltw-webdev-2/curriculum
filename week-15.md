@@ -18,6 +18,7 @@ video_tutorials:
 
 tasks:
   - type: blank
+  - type: blank
   - title: "Browser testing"
     url: /courses/web-dev-1/browser-testing/
     submit: "Submit nothing."
@@ -36,5 +37,4 @@ tasks:
     due_week: 15
     due_time: "23:59"
     no-solution: true
-  - type: blank
 ---

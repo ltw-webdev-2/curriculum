@@ -4,6 +4,8 @@ title: "Making responsive grids"
 desc: "A step-by-step guide to making a responsive grid and the different pieces of code that are needed."
 
 extra_tutorials:
+  - title: "Grid systems slide deck"
+    url: "/courses/web-dev-2/grid-systems/"
   - title: "Grids"
     url: grids
   - title: "Gridifier"

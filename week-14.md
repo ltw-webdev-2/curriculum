@@ -26,18 +26,24 @@ video_tutorials:
 
 group_activities:
   - title: "Course feedback"
-    url: https://www.algonquincollege.com/studentfeedback/
+    url: "https://www.algonquincollege.com/studentfeedback/"
     type: star
 
 tasks:
   - title: "Accessibility Atomizer"
     type: activity
-  - type: blank
-  - title: "SaaS website accessibility testing"
-    url: "https://github.com/acgd-webdev-2/saas-website-accessibility-testing"
+  - title: "Accessibility testing"
+    url: /courses/web-dev-2/accessibility-testing/
+    submit: "Submit nothing."
     pair: true
+    button: activity
+    type: basic
+  - title: "SaaS website check-in"
+    url: "https://github.com/acgd-webdev-2/saas-website-check-in"
+    button: activity
+    type: basic
     no-solution: true
-    disabled: true
+    submit: show
   - title: "SaaS website"
     url: "https://github.com/acgd-webdev-2/saas-website"
     graded-as: saas-website

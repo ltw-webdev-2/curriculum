@@ -19,13 +19,17 @@ slides:
 
 tasks:
   - title: "Media Query Manager"
-    url: https://activities.learn-the-web.algonquindesign.ca/media-query-manager/
+    url: "https://activities.learn-the-web.algonquindesign.ca/media-query-manager/"
     type: activity
   - title: "Using a type system"
     url: using-a-type-system
     type: lesson
+    submit: code
+    disabled: true
   - title: "Section"
     url: "https://github.com/acgd-webdev-2/section"
+    disabled: true
   - title: "Banner"
     url: "https://github.com/acgd-webdev-2/banner"
+    disabled: true
 ---

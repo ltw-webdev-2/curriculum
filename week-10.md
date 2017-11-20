@@ -1,34 +1,37 @@
 ---
-topic: "Tables"
-desc: "Code complexly formatted data charts using the HTML table element."
-clr: "1, 2, 6"
+topic: "Forms"
+desc: "Discover how to code interactive fillable forms."
+clr: "1, 2, 5"
 
 video_tutorials:
-  - title: "Tables"
-    url: tables
+  - title: "Forms"
+    url: forms
     videos: true
-  - title: "Tables cheat sheet"
-    url: tables-cheat-sheet
-    highlight: true
   - title: "Forms cheat sheet"
     url: forms-cheat-sheet
+    highlight: true
 
 slides:
-  - title: "Tables"
-    url: tables
+  - title: "Forms"
+    url: forms
+
+group_activities:
+  - title: "Finding & grouping fields"
+    pair: true
+    type: pencil
 
 tasks:
-  - title: "Form Finalizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/form-finalizer/"
-    type: activity
-  - title: "Data table"
-    url: data-table
+  - type: blank
+  - title: "Contact form"
+    url: contact-form
     type: lesson
-  - title: "Events calendar"
-    url: "https://github.com/acgd-webdev-2/events-calendar"
-    # A huge table with lots of information, columns, footers, headers, etc.
-  - title: "More than just datum"
-    url: "https://github.com/acgd-webdev-2/more-than-just-datum"
+    submit: code
+    disabled: true
+  - title: "Registration form"
+    url: "https://github.com/acgd-webdev-2/registration-form"
+    disabled: true
+  - title: "Volunteer form"
+    url: "https://github.com/acgd-webdev-2/volunteer-form"
     disabled: true
   - type: watch-videos
 ---

@@ -21,14 +21,19 @@ slides:
 
 tasks:
   - title: "Definition Devastator"
-    url: https://activities.learn-the-web.algonquindesign.ca/definition-devastator/
+    url: "https://activities.learn-the-web.algonquindesign.ca/definition-devastator/"
     type: activity
   - title: "Making responsive grids"
     url: making-responsive-grids
     type: lesson
+    submit: code
+    disabled: true
   - title: "Using Gridifier"
     url: using-gridifier
+    submit: code
     type: lesson
+    disabled: true
   - title: "Grid layout"
-    url: https://github.com/acgd-webdev-2/grid-layout
+    url: "https://github.com/acgd-webdev-2/grid-layout"
+    disabled: true
 ---
