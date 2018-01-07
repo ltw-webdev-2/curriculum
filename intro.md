@@ -11,7 +11,7 @@ slides:
   - content: |
       ## Chelle Lorenzen
 
-      *Super hero*
+      *Nerdherder*
 
       [vandemm@algonquincollege.com](mailto:vandemm@algonquincollege.com)
 
@@ -48,15 +48,13 @@ slides:
       - Watch the videos before class
 
   - content: |
-      ## Labs & TAs
+      ## Getting help
 
-      **TAs in class & scheduled work labs**
+      **TAs in class** — to help answer questions
 
-      - 1 hour work labs
-      - Scheduled outside class
-      - Watch videos
-      - Get help from TAs
-      - Attendance expected
+      **Workshops** — every ~3 weeks for extra help
+
+      **Tutors** — [available to hire for one-on-one](https://www.algonquincollege.com/peer-tutoring/find-peer-tutoring-on-your-campus/)
 
   - content: |
       ## Marking scheme
