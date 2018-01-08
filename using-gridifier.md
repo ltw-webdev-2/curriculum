@@ -3,6 +3,9 @@ layout: lesson
 title: "Using Gridifier"
 desc: "A quick look at using a generated grid from Gridifier in your website to simplify making responsive layouts."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "Grid systems slide deck"
     url: "/courses/web-dev-2/grid-systems/"
@@ -19,14 +22,13 @@ goal:
   before: |
     Gridifier is a tool I created for myself that generates a responsive grid. It was inspired by lots of other grid systems like [Bootstrap](https://getbootstrap.com/), [Pure.css](http://purecss.io/) and [Foundation](http://foundation.zurb.com/) but has it’s own features and doesn’t require you to use the whole framework to implement it in your websites.
 
-    Let’s look at how to use Gridifier in your website.
-
-    ### [Download the images & screenshots.](https://github.com/acgd-webdev-2/using-gridifier/archive/gh-pages.zip)
-
-    - *You’ll need to reference the images in the `screenshots` folder later to complete this lesson.*
+    **Let’s look at how to use Gridifier in your website.**
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
+
+fork:
+  url: "https://github.com/acgd-webdev-2/using-gridifier/"
 
 steps:
   - title: "Set up the project"
@@ -47,26 +49,32 @@ steps:
       - label: "images"
         type: folder
         indent: 1
+        fade: true
       - label: "archeopteryx.jpg"
         indent: 2
+        fade: true
       - label: "diplodocus.jpg"
         indent: 2
+        fade: true
       - label: "hadrosaur.jpg"
         indent: 2
+        fade: true
       - label: "iguanodon.jpg"
         indent: 2
+        fade: true
       - label: "pteranodon.jpg"
         indent: 2
+        fade: true
       - label: "rhamphorhynchus.jpg"
         indent: 2
+        fade: true
       - label: "stegosaurus.jpg"
         indent: 2
+        fade: true
     after: |
-      1. Create a folder named `using-gridifier`
       2. Make an `index.html`
       3. Make a `grid.css` in your `css` folder
       4. Make a `main.css` in your `css` folder
-      5. Move the images you downloaded into your `images` folder
     notes:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
@@ -288,7 +296,7 @@ steps:
       - `pteranodon.jpg`
       - `rhamphorhynchus.jpg`
 
-      *Check out the `screenshots` folder in the [download](https://github.com/acgd-webdev-2/using-gridifier/tree/gh-pages/screenshots) to see what the final layouts should look like.*
+      *Check out the `screenshots` folder in the [repo you forked](https://github.com/acgd-webdev-2/using-gridifier/tree/gh-pages/screenshots) to see what the final layouts should look like.*
 
       **Add the correct grid sizes to each of the remaining units. Gridifier already supports those layouts so you won’t have to change any CSS.**
 

@@ -3,6 +3,9 @@ layout: lesson
 title: "Making responsive grids"
 desc: "A step-by-step guide to making a responsive grid and the different pieces of code that are needed."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "Grid systems slide deck"
     url: "/courses/web-dev-2/grid-systems/"
@@ -18,21 +21,19 @@ goal:
   image: goal.gif
   before: |
     We’re going to explore the HTML and CSS necessary to make a very basic responsive grid.
-
-    ### [Download the content & images.](https://github.com/acgd-webdev-2/making-responsive-grids/archive/gh-pages.zip)
-
-    - *You can ignore the `credits.txt` file.*
-    - *The `content.txt` file has all the text you’ll need for this website.*
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
+
+fork:
+  url: "https://github.com/acgd-webdev-2/making-responsive-grids/"
 
 steps:
   - title: "Set up the project"
     before: |
       Before we get started, create some files and get ready.
     folders:
-      - label: "responsive-grid"
+      - label: "making-responsive-grids"
         type: folder
       - label: "index.html"
         indent: 1
@@ -46,18 +47,20 @@ steps:
       - label: "images"
         type: folder
         indent: 1
+        fade: true
       - label: "armillaria-solidipes.jpg"
         indent: 2
+        fade: true
       - label: "bioluminescent-mushroom.jpg"
         indent: 2
+        fade: true
       - label: "bracket-fungi.jpg"
         indent: 2
+        fade: true
     after: |
-      1. Create a folder named `responsive-grid`
       2. Make an `index.html`
       3. Make a `grid.css` in your `css` folder
       4. Make a `main.css` in your `css` folder
-      5. Move the images you downloaded into your `images` folder
     notes:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."

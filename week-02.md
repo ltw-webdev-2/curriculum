@@ -27,13 +27,10 @@ tasks:
     url: making-responsive-grids
     type: lesson
     submit: code
-    disabled: true
   - title: "Using Gridifier"
     url: using-gridifier
     submit: code
     type: lesson
-    disabled: true
   - title: "Grid layout"
     url: "https://github.com/acgd-webdev-2/grid-layout"
-    disabled: true
 ---
