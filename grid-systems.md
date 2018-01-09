@@ -125,7 +125,12 @@ slides:
       [**Gridifier »**](https://gridifier.web-dev.tools)
 
   - type: code
-    html_lines: 6
+    html_lines:
+      - num: 6
+        text: |
+          Always include the `grid.css` file above your `main.css`.
+
+          *If using Gridifier, never modify the CSS inside `grid.css`, always go to the Gridifier website and generate a new, complete grid.*
     html: |
       <!DOCTYPE html>
       <html lang="en-ca">
