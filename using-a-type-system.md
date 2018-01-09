@@ -3,6 +3,9 @@ layout: lesson
 title: "Using a type system"
 desc: "A quick look at using a generated type system from Typografier in your website to simplify making responsive layouts."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "Modular type slide deck"
     url: "/courses/web-dev-2/modular-type/"
@@ -21,13 +24,12 @@ goal:
     Typografier is a tool I created for myself that generates a responsive type system. It was inspired by lots of other type systems like [Bootstrap](https://getbootstrap.com/), [Foundation](http://foundation.zurb.com/) and [Type Scale](http://type-scale.com/) but has it’s own features and doesn’t require you to use the whole framework to implement it in your websites.
 
     Let’s look at how to use Typografier in your website.
-
-    ### [Download the images & content.](https://github.com/acgd-webdev-2/using-a-type-system/archive/gh-pages.zip)
-
-    - *The `content.txt` file has all the text you’ll need for this website.*
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
+
+fork:
+  url: "https://github.com/acgd-webdev-2/using-a-type-system/"
 
 steps:
   - title: "Set up the project"
@@ -48,14 +50,14 @@ steps:
       - label: "images"
         type: folder
         indent: 1
+        fade: true
       - label: "glyptodon.jpg"
         indent: 2
+        fade: true
     after: |
-      1. Create a folder named `using-a-type-system`
-      2. Make an `index.html`
-      3. Make a `type.css` in your `css` folder
-      4. Make a `main.css` in your `css` folder
-      5. Move the images you downloaded into your `images` folder
+      1. Make an `index.html`
+      2. Make a `type.css` in your `css` folder
+      3. Make a `main.css` in your `css` folder
     notes:
       - label: "Naming conventions"
         text: "Don’t forget to follow the [naming conventions](/topics/naming-paths-cheat-sheet/#naming-conventions)."
@@ -163,6 +165,9 @@ steps:
         text: "Don’t forget to add the `.img-flex` class to all the images."
       - num: 6
         text: "This `<div>` is here—not for semantics—but because we’ll need a hook later to add some spacing."
+      - num: 11
+        text: |
+          It makes more semantic sense to use a `<small>` tag here because it’s a copyright-like notice. I’m using a `<p>` tag simply because I want to demonstrate a point about margins & font-sizes.
 
   - title: "Add some basic CSS"
     before: "Now we’ll add a little bit of CSS just so our card is recognizable—but the majority of the code we’re going to write is classes in our HTML."
@@ -176,7 +181,7 @@ steps:
       }
 
       a {
-        color: currentcolor
+        color: currentColor
       }
 
       .card {
