@@ -52,11 +52,14 @@ slides:
 
       - Different sizes are defined by different classes
       - Each class has an optimized `line-height`
+      - Remove the top margin from everything and standardize on bottom margin
       - 10 different font-sizes—you shouldn’t need more
       - Based on the metric system:
         <br>`.micro, .milli, .kilo, etc.`
 
   - type: interactive
+    notes: |
+      HTML elements don’t dictate the font-size, they are only for meaning.
     resizable: true
     html: |
       <link href="css/type.css" rel="stylesheet">
@@ -80,6 +83,16 @@ slides:
       <h1 class="push-0">Heading Level 1</h1>
       <h2 class="push-2">Heading Level 2</h2>
       <h3 class="island">Heading Level 3</h3>
+    html_lines:
+      - num: 1
+        text: |
+          `push-0`: no margin on the bottom
+      - num: 2
+        text: |
+          `push-2`: margin on the bottom equal to 2 × the line-height
+      - num: 3
+        text: |
+          `island`: padding on all 4 sides equal to the line-height
     css_hidden: |
       h3 {
         background-color: #c883d4;
@@ -101,6 +114,10 @@ slides:
       <h1 class="italic not-bold">Heading Level 1</h1>
       <h2 class="text-right">Heading Level 2</h2>
       <p class="max-length">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+    html_lines:
+      - num: 3
+        text: |
+          `max-length`: controls the line length of body copy
 
   - content: |
       ## Videos & tutorials
