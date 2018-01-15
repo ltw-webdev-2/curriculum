@@ -22,13 +22,17 @@ group_activities:
 tasks:
   - type: blank
   - type: blank
-  - title: "Responsive photo gallery"
-    url: "https://github.com/acgd-webdev-2/responsive-photo-gallery"
-    disabled: true
-  - title: "Icon navigation"
-    url: "https://github.com/acgd-webdev-2/icon-navigation"
-    disabled: true
-  - title: "Icon cards"
-    url: "https://github.com/acgd-webdev-2/icon-cards"
-    disabled: true
+  - title: "Just your type: text & sketches"
+    url: "https://github.com/acgd-webdev-2/just-your-type"
+    no-solution: true
+    submit: show
+    button: activity
+    type: basic
+  - title: "Just your type: code"
+    url: "https://github.com/acgd-webdev-2/just-your-type"
+    no-solution: true
+  - title: "Just your type: design & rationale"
+    url: "https://github.com/acgd-webdev-2/just-your-type"
+    type: basic
+    no-solution: true
 ---

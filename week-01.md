@@ -32,7 +32,7 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/validation-verifier/"
     type: activity
   - title: "Submit GitHub account"
-    url: "https://github.com/acgd-webdev-1/submit-github-account"
+    url: "https://github.com/acgd-webdev-2/submit-github-account"
     type: activity
     submit: online
     button: online
