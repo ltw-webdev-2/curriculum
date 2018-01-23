@@ -24,6 +24,7 @@ tasks:
     type: activity
   - type: blank
   - title: "Hot grid-dle"
+    url: "https://github.com/acgd-webdev-2/hot-grid-dle"
   - title: "Grid-ception"
     url: "https://github.com/acgd-webdev-2/grid-ception"
   - type: watch-videos
