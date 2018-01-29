@@ -52,7 +52,7 @@ slides:
 
       **TAs in class** — to help answer questions
 
-      **Workshops** — every ~3 weeks for extra help
+      **Work labs** — every ~3 weeks for extra help
 
       **Tutors** — [available to hire for one-on-one](https://www.algonquincollege.com/peer-tutoring/find-peer-tutoring-on-your-campus/)
 
