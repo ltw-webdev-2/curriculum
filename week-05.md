@@ -28,8 +28,8 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/type-trasher/"
     type: activity
   - type: blank
-  - title: "Content page"
-    url: "https://github.com/acgd-webdev-2/content-page"
   - title: "Trendy fruit"
     url: "https://github.com/acgd-webdev-2/trendy-fruit"
+  - title: "Content page"
+    url: "https://github.com/acgd-webdev-2/content-page"
 ---
