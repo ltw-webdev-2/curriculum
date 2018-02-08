@@ -19,7 +19,7 @@ video_tutorials:
 
 group_activities:
   - title: "Why the (type) face?"
-    # Sketching out different type classes?
+    url: why-the-type-face
     pair: true
     type: pencil
 
@@ -28,9 +28,9 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/type-trasher/"
     type: activity
   - type: blank
+  - title: "Content page"
+    url: "https://github.com/acgd-webdev-2/content-page"
   - title: "Trendy fruit"
     # Full write everything assignment using only type
     # Only allow colours and font family in the CSS
-  - title: "Content page"
-    url: "https://github.com/acgd-webdev-2/content-page"
 ---
