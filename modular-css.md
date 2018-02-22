@@ -45,13 +45,10 @@ slides:
       [**Modulifier »**](https://modulifier.web-dev.tools)
 
   - type: interactive
+    notes: |
+      **Buttons**—3 different starter buttons styles
     html: |
       <link href="css/modules.css" rel="stylesheet">
-
-      <!--
-        Buttons
-        • 3 default button styles to start code with
-      -->
 
       <a class="btn">Go!</a>
       <a class="btn btn-light">Go, Go Power Rangers!</a>
@@ -62,13 +59,10 @@ slides:
       }
 
   - type: interactive
+    notes: |
+      **List groups**—bullet-less horizontal & vertical lists
     html: |
       <link href="css/modules.css" rel="stylesheet">
-
-      <!--
-        List groups
-        • Bullet-less horizontal/vertical lists
-      -->
 
       <ul class="list-group">
         <li>Diplodocus</li>
@@ -82,13 +76,10 @@ slides:
       </ul>
 
   - type: interactive
+    notes: |
+      **Icons**—icon classes for different common sizes with & without labels
     html: |
       <link href="css/modules.css" rel="stylesheet">
-
-      <!--
-        Icons
-        • Different icon sizes with/out labels
-      -->
 
       <i class="icon i-18"><img src="images/icon.svg" alt=""></i>
       <span class="icon-label">Icons ahoy!</span>
@@ -98,13 +89,10 @@ slides:
 
   - type: interactive
     resizable: true
+    notes: |
+      **Embed containers**—make images & videos responsive, in a way that space is made available before the media finishes downloading
     html: |
       <link href="css/modules.css" rel="stylesheet">
-
-      <!--
-        Embed containers
-        • Responsive images & videos
-      -->
 
       <div class="embed embed-16by9">
         <img class="embed-item" src="images/placeholder-16by9.svg" alt="">
@@ -123,6 +111,6 @@ slides:
 
       - [Modules ➔](/topics/modules/)
       - [**Modulifier »**](https://modulifier.web-dev.tools/)
-      - [Modulifier cheat sheet ➔](/topics/modulifier-cheat-sheet/)
+      - [**Modulifier cheat sheet ➔**](/topics/modulifier-cheat-sheet/)
 
 ---

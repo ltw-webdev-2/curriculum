@@ -21,19 +21,16 @@ slides:
 
 tasks:
   - title: "Commit Connoisseur"
+    url: "https://activities.learn-the-web.algonquindesign.ca/commit-connoisseur/"
     type: activity
   - title: "Button systems"
     url: button-systems
     type: lesson
     submit: code
-    disabled: true
   - title: "Embed containers"
     url: "https://github.com/acgd-webdev-2/embed-containers"
-    disabled: true
   - title: "Icons"
     url: "https://github.com/acgd-webdev-2/icons"
-    disabled: true
   - title: "List groups"
     url: "https://github.com/acgd-webdev-2/list-groups"
-    disabled: true
 ---
