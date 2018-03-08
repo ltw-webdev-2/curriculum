@@ -31,6 +31,7 @@ group_activities:
 
 tasks:
   - title: "Accessibility Atomizer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
     type: activity
   - title: "Accessibility testing"
     url: "/courses/shared/accessibility-testing/"
