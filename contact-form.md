@@ -136,7 +136,7 @@ steps:
 
       That’s pretty darn ugly…
 
-  - title: "Add Gridifier, Typografier & Modulifier"
+  - title: "Add the Web Dev Tools"
     before: |
       The default look of forms is pretty abysmal—Modulifier has some slightly nicer form defaults, so let’s add that code into your website.
     folders:

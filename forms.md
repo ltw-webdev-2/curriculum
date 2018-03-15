@@ -23,9 +23,9 @@ slides:
 
       Forms are a usability hurdle—especially on mobile
 
-      Contact forms are stupid—they do nothing more than a simple email address
+      Contact forms are stupid—they do nothing more than what a simple email address does
 
-      *Use only if collecting very specific information*
+      *Use forms only if collecting very specific information*
 
   - type: code
     html: |
@@ -65,16 +65,31 @@ slides:
       <form method="POST" action="/authenticate">
         <div>
           <label for="username">Username</label>
-          <input id="username">
+          <input id="username" required>
         </div>
         <div>
           <label for="password">Password</label>
-          <input type="password" id="password">
+          <input type="password" id="password" required>
         </div>
         <div>
           <button type="submit">Sign In</button>
         </div>
       </form>
+    html_lines:
+      - num: 1
+        text: |
+          All form fields must be wrapped in the `<form>` tag.
+      - num: "3-4"
+        text: |
+          Notice how the `for` attribute of the `<label>` matches the `id` attribute of the `<input>`
+
+          **Form fields must always have a matching label.**
+      - num: 8
+        text: |
+          We can force users to fill out specific fields by adding the `required` attribute onto the form field.
+      - num: 11
+        text: |
+          We use the `<button>` tag to create action buttons within a form. They should have the `type="submit"` attribute which causes the form to send its information.
 
   - content: |
       ## Videos & tutorials

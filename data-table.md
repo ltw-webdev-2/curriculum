@@ -3,6 +3,9 @@ layout: lesson
 title: "Data table"
 desc: "Create a chart of data using HTML table elements."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "Tables slide deck"
     url: "/courses/web-dev-2/tables/"
@@ -20,22 +23,19 @@ goal:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
+fork:
+  url: "https://github.com/acgd-webdev-2/data-table/fork"
+
 steps:
   - title: "Project setup"
     before: |
       To save some time with this lesson I’ve set up some basic files and put some basic content into the HTML that we’ll work from.
-
-      ### [Fork this repo.](https://github.com/acgd-webdev-2/data-table/fork)
-
-      **Make sure you clone it to your computer.**
     folders:
       - label: "data-table"
         type: folder
       - label: "css"
         type: folder
         indent: 1
-      - label: "grid.css"
-        indent: 2
       - label: "main.css"
         indent: 2
       - label: "modules.css"
@@ -144,7 +144,7 @@ steps:
 
   - title: "Add the table footer"
     before: |
-      To finish off the `<table>` we’re going to put in the footer information—the totals, etc.
+      To finish off the `<table>` we’re going to put in the footer information: the totals, etc.
     code_lang: "html"
     code_file: "index.html"
     code: |
@@ -219,7 +219,7 @@ steps:
         text: |
           No more `border="1"`
 
-  - title: "Add Gridifier, Typografier & Modulifier"
+  - title: "Add the Web Dev Tools"
     before: |
       The default look of tables is pretty abysmal—Typographier has some slightly nicer table defaults, do let’s add that code into your website.
     folders:
@@ -228,9 +228,6 @@ steps:
       - label: "css"
         type: folder
         indent: 1
-      - label: "grid.css"
-        indent: 2
-        notes: "Get the code and paste it"
       - label: "main.css"
         indent: 2
         fade: true
@@ -246,9 +243,10 @@ steps:
     after: |
       *The web dev tools CSS files need to be populated:*
 
-      - Go to [Modulifier](http://modulifier.web-dev.tools/) and copy the default CSS into `modules.css`
-      - Go to [Gridifier](http://gridifier.web-dev.tools/) and copy the default CSS into `grid.css`
+      - Go to [Modulifier](http://modulifier.web-dev.tools/) and copy the default CSS into `modules.css`—**be sure to press “Select all”**
       - Go to [Typografier](http://typografier.web-dev.tools/) and copy the default CSS into `type.css`
+
+      *We’re not using a grid for this lesson so it doesn’t need to be included.*
 
       With the web dev tools in place, it looks better:
 
@@ -259,33 +257,80 @@ steps:
   - title: "Some basic styles"
     before: |
       Now that we have access to Typografier, let’s add some of those classes onto things.
-    code_lang: "html"
-    code_file: "index.html"
-    code: |
-      ⋮
-      <body>
+    multi_code:
+      - code_lang: "html"
+        code_file: "index.html"
+        code: |
+          ⋮
+          <body>
 
-        <main class="pad-t-2 pad-b-2 gutter-1-2">
-          <div class="wrapper">
-            <h1>Exoplanets</h1>
+            <main class="pad-t-2 pad-b-2 gutter-1-2">
+              <div class="wrapper">
+                <h1>Exoplanets</h1>
 
-            <table class="push-0">
-              <caption>NASA has announced the discovery of over 1000 exoplanets—below are five important discoveries.</caption>
-              <thead>
-      ⋮
-    lines:
-      - num: 2
-        fade: true
-      - num: 4
-        text: "Add some gutters and padding to the `<main>` tag."
-      - num: 5
-        text: "Add `.wrapper` to the `<div>` to contain everything to a nice size."
-      - num: 6
-        fade: true
-      - num: 8
-        text: "Remove the default margins from the bottom of the `<table>`"
-      - num: "9-10"
-        fade: true
+                <table class="push-0">
+                  <caption class="mega">NASA has announced the discovery of over 1000 exoplanets—below are five important discoveries.</caption>
+                  <thead>
+          ⋮
+        lines:
+          - num: 2
+            fade: true
+          - num: 4
+            text: "Add some gutters and padding to the `<main>` tag."
+          - num: 5
+            text: "Add `.wrapper` to the `<div>` to contain everything to a nice size."
+          - num: 6
+            fade: true
+          - num: 8
+            text: "Remove the default margins from the bottom of the `<table>`"
+          - num: 9
+            text: "Let’s maake the caption a little bigger so it stands out from the rest of the text, using the `.mega` class."
+          - num: 10
+            fade: true
+      - code_before: |
+          Let’s style a little bit of the typography in the table’s body rows to make it a little more pleasing.
+        code_lang: "html"
+        code_file: "index.html"
+        code: |
+          ⋮
+          </thead>
+          <tbody>
+            <tr>
+              <th class="not-bold italic" scope="row">PSR B1257+12 A</th>
+              <td>Lich pulsar</td>
+              <td>1992</td>
+              <td>2300 ly</td>
+              <td>First confirmed exoplanet</td>
+            </tr>
+          ⋮
+        lines:
+          - num: 5
+            text: |
+              Let’s target the headings cells (`<th>`) in the `<tbody>` and remove the `bold` and add `italic`
+      - code_before: |
+          **Be sure to apply the `.not-bold` & `.italic` classes to all the `<th>` tags inside the `<tbody>`**
+
+          And finally we’ll make the footer of the table completely bold.
+        code_lang: "html"
+        code_file: "index.html"
+        code: |
+          ⋮
+            </tbody>
+            <tfoot class="bold">
+              <tr>
+                <th scope="row">Total</th>
+                <td colspan="4">5</td>
+              </tr>
+            </tfoot>
+          </table>
+          ⋮
+        lines:
+          - num: "2,4-10"
+            fade: true
+          - num: 3
+            text: |
+              Add the `.bold` class to the `<tfoot>`
+
     after: |
       Things look a little better now:
 
@@ -293,7 +338,7 @@ steps:
 
   - title: "Some more custom styles"
     before: |
-      Let’s open up our `main.css` and add a few custom styles to the table.
+      Let’s open up our `main.css` and add one more custom style to the table: “zebra striping”.
     code_lang: "css"
     code_file: "css/main.css"
     code: |
@@ -302,28 +347,13 @@ steps:
         background-color: #f2f2f2;
       }
 
-      tbody th {
-        font-weight: normal;
-        font-style: italic;
-      }
-
-      tfoot {
-        font-weight: bold;
-      }
-
       tbody tr:nth-child(odd) {
         background-color: #e2e2e2;
       }
     lines:
       - num: "2-4"
         fade: true
-      - num: "6-9"
-        text: |
-          Let’s target the headings cells (`<th>`) in the `<tbody>` and remove the `bold` and add `italic`
-      - num: "11-13"
-        text: |
-          Target the whole `<tfoot>` and make it completely `bold`
-      - num: "15-17"
+      - num: "6-8"
         text: |
           This will select every odd-numbered row in the table and add a background colour—making it easier to separate the rows visually. This is called “zebra striping”.
     after: |
