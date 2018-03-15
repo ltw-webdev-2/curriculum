@@ -26,7 +26,6 @@ tasks:
     url: contact-form
     type: lesson
     submit: code
-    disabled: true
   - title: "Registration form"
     url: "https://github.com/acgd-webdev-2/registration-form"
     disabled: true
