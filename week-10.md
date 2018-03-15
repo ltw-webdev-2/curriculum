@@ -17,6 +17,7 @@ slides:
 
 group_activities:
   - title: "Finding & grouping fields"
+    url: finding-and-grouping-fields
     pair: true
     type: pencil
 
@@ -28,9 +29,7 @@ tasks:
     submit: code
   - title: "Registration form"
     url: "https://github.com/acgd-webdev-2/registration-form"
-    disabled: true
   - title: "Volunteer form"
     url: "https://github.com/acgd-webdev-2/volunteer-form"
-    disabled: true
   - type: watch-videos
 ---
