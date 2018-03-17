@@ -28,8 +28,6 @@ tasks:
   - title: "Events calendar"
     url: "https://github.com/acgd-webdev-2/events-calendar"
   - title: "More than just datum"
-    # A huge table with lots of information, columns, footers, headers, etc.
     url: "https://github.com/acgd-webdev-2/more-than-just-datum"
-    disabled: true
   - type: watch-videos
 ---
