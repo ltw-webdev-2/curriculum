@@ -17,16 +17,12 @@ video_tutorials:
 slides:
   - title: "Accessibility"
     url: accessibility
-    disabled: true
 
 group_activities:
   - title: "Text me slowly"
-    # Describing actions, describing interfaces, ARIA?, alt attributes
+    url: text-me-slowly
     type: pencil
     pair: true
-
-next_week_notes:
-  - "Please bring headphones to next class."
 
 tasks:
   - type: blank
@@ -34,15 +30,8 @@ tasks:
     url: basic-accessibility
     type: lesson
     submit: code
-    disabled: true
   - title: "Accessibility fixer-upper"
     url: "https://github.com/acgd-webdev-2/accessibility-fixer-upper"
-    disabled: true
-  - title: "All the humans"
-    url: "https://github.com/acgd-webdev-2/all-the-humans"
-    disabled: true
-    # Fixing colours & contrast for colour blindness
-  - title: "More than just colours"
-    url: "https://github.com/acgd-webdev-2/more-than-just-colours"
-    disabled: true
+  - title: "Arrrgene’s treasure tours"
+    url: "https://github.com/acgd-webdev-2/arrrgenes-treasure-tours"
 ---
