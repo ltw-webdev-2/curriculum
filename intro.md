@@ -52,9 +52,9 @@ slides:
 
       **TAs in class** — to help answer questions
 
-      **Work labs** — every ~3 weeks for extra help
+      **GitHub Issues** — help outside class
 
-      **Tutors** — [available to hire for one-on-one](https://www.algonquincollege.com/peer-tutoring/find-peer-tutoring-on-your-campus/)
+      **Tutors** — [available to hire for one-on-one](https://algonquincollege.libguides.com/slc/peer-tutoring)
 
   - content: |
       ## Marking scheme
