@@ -87,6 +87,7 @@ slides:
       ## Videos & tutorials
 
       - [Accessibility ➔](/topics/accessibility/)
+      - [Accessibility cheat sheet ➔](/topics/accessibility-cheat-sheet/)
       - [Accessibility checklist ➔](/topics/accessibility-checklist/)
 
 ---

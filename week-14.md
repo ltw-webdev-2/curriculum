@@ -4,6 +4,9 @@ desc: "Peer test everybody’s SaaS website on variety of platforms and devices.
 clr: "1, 2, 3, 4, 5, 6, 7, 8"
 
 video_tutorials:
+  - title: "Homepage checklist"
+    url: homepage-checklist
+    highlight: true
   - title: "Gridifier cheat sheet"
     url: gridifier-cheat-sheet
   - title: "Typografier cheat sheet"
@@ -17,6 +20,9 @@ video_tutorials:
     highlight: true
   - title: "Accessibility"
     url: accessibility
+  - title: "Accessibility cheat sheet"
+    url: accessibility-cheat-sheet
+    highlight: true
   - title: "Accessibility checklist"
     url: accessibility-checklist
     highlight: true

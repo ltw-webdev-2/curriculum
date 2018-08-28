@@ -4,6 +4,9 @@ desc: "Finish the SaaS website by the end of the term."
 clr: "1, 2, 3, 4, 5, 6, 7, 8"
 
 video_tutorials:
+  - title: "Homepage checklist"
+    url: homepage-checklist
+    highlight: true
   - title: "Gridifier cheat sheet"
     url: gridifier-cheat-sheet
   - title: "Typografier cheat sheet"

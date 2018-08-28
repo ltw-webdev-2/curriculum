@@ -7,6 +7,9 @@ video_tutorials:
   - title: "Accessibility"
     url: accessibility
     videos: true
+  - title: "Accessibility cheat sheet"
+    url: accessibility-cheat-sheet
+    highlight: true
   - title: "Accessibility checklist"
     url: accessibility-checklist
     highlight: true
