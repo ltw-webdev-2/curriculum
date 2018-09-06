@@ -43,7 +43,6 @@ slides:
 
       - Attend every class
       - Do all the work
-      - Attend every lab
       - Put in the effort
       - Watch the videos before class
 
