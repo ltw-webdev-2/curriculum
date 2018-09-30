@@ -33,7 +33,7 @@ tasks:
     type: activity
   - title: "Submit GitHub account"
     url: "https://github.com/acgd-webdev-2/submit-github-account"
-    type: activity
+    type: basic
     submit: online
     button: online
     icon: star
