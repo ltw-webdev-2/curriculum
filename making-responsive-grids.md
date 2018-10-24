@@ -221,20 +221,19 @@ steps:
     before: |
       Inside the `grid.css` file we add the CSS for the grid specifically—nothing else.
 
-      *This example is going to use a `float`-based grid, but `flexbox`-based grids, like [Gridifier](https://gridifier.web-dev.tools/), are much more flexible.*
+      *In this example we’re going to write our own `flexbox`-based grid, like [Gridifier](https://gridifier.web-dev.tools/), much much simpler.*
     code_lang: "css"
     code_file: "css/grid.css"
     code: |
       .grid {
-        overflow: hidden;
-      }
-
-      .unit {
-        float: left;
+        display: flex;
+        flex-wrap: wrap;
       }
     lines:
       - num: 2
-        text: "The `overflow: hidden` is here to force the `.grid` to wrap around all its children because each `.unit` is floated."
+        text: "Turn the `.grid` into a flex container, so that all it’s immediate children arrange in a row."
+      - num: 3
+        text: "We’ll also allow the flex items to wrap to allow us to make responsive layouts a little more easily."
 
   - title: "Size classes for extra small screens"
     before: |
@@ -295,17 +294,18 @@ steps:
     code_file: "css/grid.css"
     code: |
       ⋮
-      .unit {
-        float: left;
+      .grid {
+        display: flex;
+        flex-wrap: wrap;
       }
 
       .xs-1 {
         width: 100%;
       }
     lines:
-      - num: "2-4"
+      - num: "2-5"
         fade: true
-      - num: "6-8"
+      - num: "7-9"
         text: "Because the fraction is `1` the width will then be `100%`"
     after: |
       Now we should see something that looks like this (which isn’t too terribly different from where we started.)

@@ -51,10 +51,7 @@ slides:
       </div>
     css: |
       .grid {
-        overflow: hidden;
-      }
-      .unit {
-        float: left;
+        display: flex;
       }
       .u-1-3 {
         width: 33.3333%;
@@ -104,11 +101,10 @@ slides:
       }
     css_hidden: |
       .grid {
-        overflow: hidden;
+        display: flex;
         color: #fff;
       }
       .unit {
-        float: left;
         background-color: #9d35af;
       }
 
