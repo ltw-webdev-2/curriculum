@@ -26,6 +26,7 @@ group_activities:
     url: text-me-slowly
     type: pencil
     pair: true
+    no-solution: true
 
 tasks:
   - type: blank

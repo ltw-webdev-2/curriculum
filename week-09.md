@@ -18,6 +18,7 @@ group_activities:
     url: finding-patterns
     pair: true
     type: pencil
+    no-solution: true
 
 tasks:
   - type: blank

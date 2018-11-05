@@ -20,6 +20,7 @@ group_activities:
     url: finding-and-grouping-fields
     pair: true
     type: pencil
+    no-solution: true
 
 tasks:
   - type: blank
