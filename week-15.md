@@ -28,6 +28,7 @@ tasks:
     pair: true
     button: activity
     type: basic
+    progressinator_id: saas-browser-testing
   - title: "Request for grade"
     url: "https://github.com/acgd-webdev-2/request-for-grade"
     due: "Midnight, last day of class"

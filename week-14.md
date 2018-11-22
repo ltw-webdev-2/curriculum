@@ -45,6 +45,7 @@ tasks:
     pair: true
     button: activity
     type: basic
+    progressinator_id: saas-a11y-testing
   - title: "SaaS website check-in"
     url: "https://github.com/acgd-webdev-2/saas-website-check-in"
     button: activity
