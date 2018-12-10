@@ -31,12 +31,7 @@ tasks:
   - title: "Validation Verifier"
     url: "https://activities.learn-the-web.algonquindesign.ca/validation-verifier/"
     type: activity
-  - title: "Submit GitHub account"
-    url: "https://github.com/acgd-webdev-2/submit-github-account"
-    type: basic
-    submit: online
-    button: online
-    icon: star
+  - type: blank
   - title: "HTML writer"
     url: "https://github.com/acgd-webdev-2/html-writer"
   - title: "Responsive image section"

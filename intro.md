@@ -51,6 +51,8 @@ slides:
 
       **TAs in class** — to help answer questions
 
+      **Open lab time** — get help outside class
+
       **GitHub Issues** — help outside class
 
       **Tutors** — [available to hire for one-on-one](https://algonquincollege.libguides.com/slc/peer-tutoring)
