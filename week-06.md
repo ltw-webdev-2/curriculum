@@ -1,35 +1,37 @@
 ---
-# topic: "Reading week—no classes"
-topic: "Work week"
-# during_class: "No class"
-# desc: "No classes, labs or new homework this week—get caught up!"
-desc: "Work classes to get caught up and ready for the final push to the end of the term!"
+topic: "Grids + modular type"
+desc: "Combining grid systems with modular type to create a website without much hassle."
 clr: "1, 2, 3, 4"
 
-# no_lab_times: true
-# no_office_hours: true
+video_tutorials:
+  - title: "Interactive wireframes"
+    url: interactive-wireframes
+  - title: "Gridifier"
+    url: "https://gridifier.web-dev.tools/"
+  - title: "Gridifier cheat sheet"
+    url: gridifier-cheat-sheet
+    highlight: true
+  - title: "Typografier"
+    url: "https://typografier.web-dev.tools/"
+  - title: "Typografier cheat sheet"
+    url: typografier-cheat-sheet
+    highlight: true
 
 group_activities:
-  - title: "Index card Q&A"
-    url: "/courses/shared/index-card-qa/"
+  - title: "Sketching websites"
+    url: sketching-websites
     type: pencil
+    pair: true
+    no-solution: true
 
 tasks:
+  - title: "Grid Genius"
+    url: "https://activities.learn-the-web.algonquindesign.ca/grid-genius/"
+    type: activity
   - type: blank
-  - title: "One-on-one time"
-    url: "https://github.com/acgd-webdev-shared/one-on-one-time"
-    type: basic
-    button: activity
-    submit: "Submit nothing."
-    graded-as: false
-  - title: "Mid-course feedback"
-    url: "/feedback/"
-    type: basic
-    submit: "Submit feedback form."
-    graded-as: false
-  - title: "Continue assignments"
-    url: "https://github.com/acgd-webdev-shared/continue-assignments"
-    submit: "Submit nothing new."
-    graded-as: false
+  - title: "Modular nav"
+    url: "https://github.com/acgd-webdev-2/modular-nav"
+  - title: "Lists ’n’ grids"
+    url: "https://github.com/acgd-webdev-2/lists-n-grids"
   - type: watch-videos
 ---
