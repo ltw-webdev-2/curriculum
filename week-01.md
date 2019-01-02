@@ -27,6 +27,9 @@ group_activities:
     pair: true
     url: semantics-schemantics
 
+todos:
+  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learn-the-web.algonquindesign.ca/profile/)"
+
 tasks:
   - title: "Validation Verifier"
     url: "https://activities.learn-the-web.algonquindesign.ca/validation-verifier/"
