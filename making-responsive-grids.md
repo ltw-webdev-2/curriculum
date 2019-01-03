@@ -9,8 +9,8 @@ hide_show_for_marks: true
 extra_tutorials:
   - title: "Grid systems slide deck"
     url: "/courses/web-dev-2/grid-systems/"
-  - title: "Grids"
-    url: grids
+  - title: "Flexbox grids"
+    url: flexbox-grids
   - title: "Gridifier"
     url: "https://gridifier.web-dev.tools/"
   - title: "Gridifier cheat sheet"

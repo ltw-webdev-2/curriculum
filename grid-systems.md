@@ -169,7 +169,7 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Grids ➔](/topics/grids/)
+      - [Flexbox grids ➔](/topics/flexbox-grids/)
       - [**Gridifier »**](https://gridifier.web-dev.tools/)
       - [Gridifier cheat sheet ➔](/topics/gridifier-cheat-sheet/)
 ---

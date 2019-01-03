@@ -4,8 +4,8 @@ desc: "Get more experience using modular grid systems in different website layou
 clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "Grids"
-    url: grids
+  - title: "Flexbox grids"
+    url: flexbox-grids
   - title: "Gridifier"
     url: "https://gridifier.web-dev.tools/"
   - title: "Gridifier cheat sheet"

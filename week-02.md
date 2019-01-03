@@ -4,8 +4,8 @@ desc: "Learn how modular grid systems can simplify layouts making coding more ef
 clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "Grids"
-    url: grids
+  - title: "Flexbox grids"
+    url: flexbox-grids
     videos: true
   - title: "Gridifier"
     url: "https://gridifier.web-dev.tools/"
