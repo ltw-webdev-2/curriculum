@@ -52,6 +52,7 @@ slides:
     css: |
       .grid {
         display: flex;
+        flex-wrap: wrap;
       }
       .u-1-3 {
         width: 33.3333%;
@@ -102,6 +103,7 @@ slides:
     css_hidden: |
       .grid {
         display: flex;
+        flex-wrap: wrap;
         color: #fff;
       }
       .unit {
