@@ -181,7 +181,7 @@ steps:
       }
 
       a {
-        color: currentColor
+        color: currentColor;
       }
 
       .card {
