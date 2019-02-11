@@ -19,6 +19,11 @@ slides:
   - title: "Modular CSS"
     url: modular-css
 
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+
 tasks:
   - title: "Commit Connoisseur"
     url: "https://activities.learn-the-web.algonquindesign.ca/commit-connoisseur/"
