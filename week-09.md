@@ -29,11 +29,14 @@ tasks:
     submit: show
     button: activity
     type: basic
+    progressinator_id: just-your-type-text-sketches
   - title: "Just your type: code"
     url: "https://github.com/acgd-webdev-2/just-your-type"
     no-solution: true
+    progressinator_id: just-your-type
   - title: "Just your type: design & rationale"
     url: "https://github.com/acgd-webdev-2/just-your-type"
     type: basic
     no-solution: true
+    progressinator_id: just-your-type-design-rationale
 ---
