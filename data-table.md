@@ -393,8 +393,8 @@ steps:
         code_file: "css/main.css"
         code: |
           ⋮
-          tfoot {
-            font-weight: bold;
+          tbody tr:nth-child(odd) {
+            background-color: #e2e2e2;
           }
 
           .year {
