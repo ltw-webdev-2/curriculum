@@ -39,13 +39,7 @@ tasks:
   - title: "Accessibility Atomizer"
     url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
     type: activity
-  - title: "Accessibility testing"
-    url: "/courses/shared/accessibility-testing/"
-    submit: "Submit nothing."
-    pair: true
-    button: activity
-    type: basic
-    progressinator_id: saas-a11y-testing
+  - type: blank
   - title: "SaaS website check-in"
     url: "https://github.com/acgd-webdev-2/saas-website-check-in"
     button: activity

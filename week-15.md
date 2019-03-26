@@ -21,7 +21,13 @@ video_tutorials:
 
 tasks:
   - type: blank
-  - type: blank
+  - title: "Accessibility testing"
+    url: "/courses/shared/accessibility-testing/"
+    submit: "Submit nothing."
+    pair: true
+    button: activity
+    type: basic
+    progressinator_id: saas-a11y-testing
   - title: "Browser testing"
     url: "/courses/shared/browser-testing/"
     submit: "Submit nothing."
