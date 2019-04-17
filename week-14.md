@@ -1,5 +1,5 @@
 ---
-topic: "SaaS website testing"
+topic: "SaaS website work period"
 desc: "Peer test everybody’s SaaS website on variety of platforms and devices."
 clr: "1, 2, 3, 4, 5, 6, 7, 8"
 
