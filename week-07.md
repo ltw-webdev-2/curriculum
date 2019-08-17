@@ -1,36 +1,41 @@
 ---
-topic: "Reading week—no classes"
-# topic: "Work week"
-during_class: "No class"
-desc: "No classes, labs or new homework this week—get caught up!"
-# desc: "Work classes to get caught up and ready for the final push to the end of the term!"
+topic: "Modular CSS"
+desc: "Reduce CSS clutter and repetition by using modular CSS ideas and pre-built components."
 clr: "1, 2, 3, 4"
 
-no_lab_times: true
-no_office_hours: true
+video_tutorials:
+  - title: "Modules"
+    url: modules
+    videos: true
+  - title: "Modulifier"
+    url: "https://modulifier.web-dev.tools/"
+  - title: "Modulifier cheat sheet"
+    url: modulifier-cheat-sheet
+    highlight: true
+  - title: "Commit message cheat sheet"
+    url: commit-message-cheat-sheet
 
-# group_activities:
-#   - title: "Index card Q&A"
-#     url: "/courses/shared/index-card-qa/"
-#     type: pencil
+slides:
+  - title: "Modular CSS"
+    url: modular-css
+
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
 
 tasks:
-  - type: blank
-  - type: blank
-  # - title: "One-on-one time"
-  #   url: "https://github.com/acgd-webdev-shared/one-on-one-time"
-  #   type: basic
-  #   button: activity
-  #   submit: "Submit nothing."
-  #   graded-as: false
-  - title: "Mid-course feedback"
-    url: "/feedback/"
-    type: basic
-    submit: "Submit feedback form."
-    graded-as: false
-  - title: "Continue assignments"
-    url: "https://github.com/acgd-webdev-shared/continue-assignments"
-    submit: "Submit nothing new."
-    graded-as: false
-  - type: watch-videos
+  - title: "Commit Connoisseur"
+    url: "https://activities.learn-the-web.algonquindesign.ca/commit-connoisseur/"
+    type: activity
+  - title: "Button systems"
+    url: button-systems
+    type: lesson
+    submit: code
+  - title: "Embed containers"
+    url: "https://github.com/acgd-webdev-2/embed-containers"
+  - title: "Icons"
+    url: "https://github.com/acgd-webdev-2/icons"
+  - title: "List groups"
+    url: "https://github.com/acgd-webdev-2/list-groups"
 ---
