@@ -9,11 +9,11 @@ slides:
       **Web Dev 2**
 
   - content: |
-      ## Chelle Lorenzen
+      ## Charlie Quinn
 
-      *Nerdherder*
+      *Code Connaisseur*
 
-      [vandemm@algonquincollege.com](mailto:vandemm@algonquincollege.com)
+      [hey@charliequinn.ca](mailto:hey@charliequinn.ca)
 
   - content: |
       ## What we’re learning
