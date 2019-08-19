@@ -16,6 +16,12 @@ video_tutorials:
   - title: "Tables cheat sheet"
     url: tables-cheat-sheet
 
+group_activities:
+  - title: "Index card Q&A"
+    url: "/courses/shared/index-card-qa/"
+    type: pencil
+    no-solution: true
+
 tasks:
   - title: "Table Tabulator"
     url: "https://activities.learn-the-web.algonquindesign.ca/table-tabulator/"
