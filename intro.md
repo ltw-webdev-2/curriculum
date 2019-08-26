@@ -9,11 +9,11 @@ slides:
       **Web Dev 2**
 
   - content: |
-      ## Charlie Quinn
+      ## Charlie Quinn <em class="not-bold exa">(She, her, hers)</em>
 
-      *Code Connaisseur*
+      **Code Connaisseur**
 
-      [hey@charliequinn.ca](mailto:hey@charliequinn.ca)
+      [charlie.quinn@algonquincollege.com](mailto:charlie.quinn@algonquincollege.com)
 
   - content: |
       ## What we’re learning
