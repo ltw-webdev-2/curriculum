@@ -16,8 +16,7 @@ slides:
 
       1. Form into pairs
       2. [Download the files](https://github.com/acgd-webdev-2/finding-grids/archive/gh-pages.zip)
-      3. Print out the 3 images
-      4. Get out a pencil for marking up the paper
+      3. Prepare to draw on the document
 
   - content: |
       **Look at the 3 images and divide them into grids**

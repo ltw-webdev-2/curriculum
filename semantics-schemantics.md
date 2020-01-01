@@ -16,8 +16,7 @@ slides:
 
       1. Form into pairs
       2. [Download the files](https://github.com/acgd-webdev-2/semantics-schemantics/archive/master.zip)
-      3. Print “content.pdf”
-      4. Get out a pencil for marking up the paper
+      3. Prepare to draw on the document
 
   - content: |
       1. **Draw boxes**<br>
