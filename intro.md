@@ -9,11 +9,11 @@ slides:
       **Web Dev 2**
 
   - content: |
-      ## Charlie Quinn <em class="not-bold exa">(She, her, hers)</em>
+      ## Christina Muxlow <em class="not-bold exa">(She, her, hers)</em>
 
       **Code Connaisseur**
 
-      [charlie.quinn@algonquincollege.com](mailto:charlie.quinn@algonquincollege.com)
+      [muxlowc@algonquincollege.com](mailto:muxlowc@algonquincollege.com)
 
   - content: |
       ## What we’re learning
