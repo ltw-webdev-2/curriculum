@@ -11,7 +11,7 @@ slides:
   - content: |
       ## Christina Muxlow <em class="not-bold exa">(She, her, hers)</em>
 
-      **Code Connaisseur**
+      **Div Deputy**
 
       [muxlowc@algonquincollege.com](mailto:muxlowc@algonquincollege.com)
 
