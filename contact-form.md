@@ -126,7 +126,7 @@ steps:
 
           Without the `type="submit"` attribute the button won’t actually submit the form—it’ll require JavaScript to be functional.
     notes:
-      - label: 'Important'
+      - label: "Important"
         text: |
           Notice that a few of the form fields have the `required` attribute—it’s best practice that at least one field in a form is required.
     after: |
@@ -261,7 +261,7 @@ steps:
           <div class="max-length">
             <h1>Send us a sweet little note</h1>
 
-            <form class="push-0" method="POST" action="https://formspree.io/bradlet@algonquincollege.com">
+            <form class="push-0" method="POST" action="https://formspree.io/thomas@learntheweb.courses">
               <div class="push">
                 <label for="name">Name</label>
                 <input id="name" name="name" required>
@@ -327,5 +327,4 @@ steps:
   - title: "Confirmation in your email"
     before: |
       The first message you get from Formspree will be a confirmation one. **You have to go to your email and confirm your email address!** After that Formspree will just send the message to your email address.
-
 ---
