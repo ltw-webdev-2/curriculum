@@ -24,17 +24,17 @@ group_activities:
 
 tasks:
   - title: "Table Tabulator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/table-tabulator/"
+    url: "https://activities.learntheweb.courses/table-tabulator/"
     type: activity
   - title: "Module Mogul"
-    url: "https://activities.learn-the-web.algonquindesign.ca/module-mogul/"
+    url: "https://activities.learntheweb.courses/module-mogul/"
     type: activity
   - title: "SaaS website sketches"
-    url: "https://github.com/acgd-webdev-2/saas-website-sketches"
+    url: "https://github.com/ltw-webdev-2/saas-website-sketches"
     type: paper
     no-solution: true
   - title: "SaaS website"
-    url: "https://github.com/acgd-webdev-2/saas-website"
+    url: "https://github.com/ltw-webdev-2/saas-website"
     graded-as: saas-website
     due: "Midnight, last day of class"
     due_week: 15

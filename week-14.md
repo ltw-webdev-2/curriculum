@@ -32,22 +32,22 @@ video_tutorials:
 
 group_activities:
   - title: "Course feedback"
-    url: "https://www.algonquincollege.com/studentfeedback/"
+    url: "/feedback/"
     type: star
 
 tasks:
   - title: "Accessibility Atomizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/accessibility-atomizer/"
+    url: "https://activities.learntheweb.courses/accessibility-atomizer/"
     type: activity
   - type: blank
   - title: "SaaS website check-in"
-    url: "https://github.com/acgd-webdev-2/saas-website-check-in"
+    url: "https://github.com/ltw-webdev-2/saas-website-check-in"
     button: activity
     type: basic
     no-solution: true
     submit: show
   - title: "SaaS website"
-    url: "https://github.com/acgd-webdev-2/saas-website"
+    url: "https://github.com/ltw-webdev-2/saas-website"
     graded-as: saas-website
     due: "Midnight, last day of class"
     due_week: 15

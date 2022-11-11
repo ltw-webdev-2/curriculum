@@ -34,7 +34,7 @@ important:
     The only way to truly test website accessibility is with live user feedback. Find people and test your website with their different conditions and tools.
 
 fork:
-  url: "https://github.com/acgd-webdev-2/basic-accessibility"
+  url: "https://github.com/ltw-webdev-2/basic-accessibility"
 
 steps:
   - title: "Project setup"

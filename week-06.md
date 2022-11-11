@@ -26,12 +26,12 @@ group_activities:
 
 tasks:
   - title: "Grid Genius"
-    url: "https://activities.learn-the-web.algonquindesign.ca/grid-genius/"
+    url: "https://activities.learntheweb.courses/grid-genius/"
     type: activity
   - type: blank
   - title: "Modular nav"
-    url: "https://github.com/acgd-webdev-2/modular-nav"
+    url: "https://github.com/ltw-webdev-2/modular-nav"
   - title: "Lists ’n’ grids"
-    url: "https://github.com/acgd-webdev-2/lists-n-grids"
+    url: "https://github.com/ltw-webdev-2/lists-n-grids"
   - type: watch-videos
 ---

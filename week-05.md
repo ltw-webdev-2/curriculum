@@ -25,11 +25,11 @@ group_activities:
 
 tasks:
   - title: "Type Trasher"
-    url: "https://activities.learn-the-web.algonquindesign.ca/type-trasher/"
+    url: "https://activities.learntheweb.courses/type-trasher/"
     type: activity
   - type: blank
   - title: "Trendy fruit"
-    url: "https://github.com/acgd-webdev-2/trendy-fruit"
+    url: "https://github.com/ltw-webdev-2/trendy-fruit"
   - title: "Content page"
-    url: "https://github.com/acgd-webdev-2/content-page"
+    url: "https://github.com/ltw-webdev-2/content-page"
 ---

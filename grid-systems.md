@@ -19,8 +19,8 @@ slides:
   - content: |
       ## Two keywords
 
-      - **grid** — a row of layout, representing the whole width
-      - **unit** — a division of that row
+      - **grid** — a row of layout, representing the whole width
+      - **unit** — a division of that row
 
       ![](keywords.svg)
 
@@ -75,7 +75,7 @@ slides:
       ## Different classes per media query
 
       - Add a separate class for each media query
-      - Declarative — can immediately see what it’s doing
+      - Declarative — can immediately see what it’s doing
 
       ```html
       <div class="grid">

@@ -24,7 +24,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-2/contact-form"
+  url: "https://github.com/ltw-webdev-2/contact-form"
 
 steps:
   - title: "Project setup"
@@ -300,14 +300,14 @@ steps:
         text: |
           The `<form>` tag gets two new attributes—as shown in the [Formspree documentation](https://formspree.io/).
 
-          - `method` — `POST`, tells the browser how to send the information to the server.
+          - `method` — `POST`, tells the browser how to send the information to the server.
           - `action` — The URL to the server the information should be sent—**make sure to change it to your email address!**
       - num: 12
         text: |
           Every field in the form now gets a `name=""` attribute. It doesn’t really matter what the `name` is but a few of them are specialized:
 
           - `name="email"` — Formspree will use this as the email’s “Reply To” entry.
-          - `name="_subject"` — Formspree will use this as the subject of the email message
+          - `name="_subject"` — Formspree will use this as the subject of the email message
 
           You can also provide the URL for a “Thank You” page—check out the [Formspree documentation](https://formspree.io/) to see how to do that.
       - num: 16

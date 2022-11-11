@@ -36,14 +36,14 @@ tasks:
     type: basic
     progressinator_id: saas-browser-testing
   - title: "Request for grade"
-    url: "https://github.com/acgd-webdev-2/request-for-grade"
+    url: "https://github.com/ltw-webdev-2/request-for-grade"
     due: "Midnight, last day of class"
     due_week: 15
     due_time: "23:59"
     type: basic
     graded-as: false
   - title: "SaaS website"
-    url: "https://github.com/acgd-webdev-2/saas-website"
+    url: "https://github.com/ltw-webdev-2/saas-website"
     graded-as: saas-website
     due: "Midnight, last day of class"
     due_week: 15

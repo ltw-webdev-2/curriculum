@@ -28,7 +28,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-2/using-gridifier/"
+  url: "https://github.com/ltw-webdev-2/using-gridifier/"
 
 steps:
   - title: "Set up the project"
@@ -275,10 +275,10 @@ steps:
         text: |
           We’re specifying 4 different sizes on the `.unit`:
 
-          - `xs-1` — Full width on extra small
-          - `s-1-2` — Half width on small
-          - `m-1-2` — Half width on medium
-          - `l-1-4` — Quarter width on large
+          - `xs-1` — Full width on extra small
+          - `s-1-2` — Half width on small
+          - `m-1-2` — Half width on medium
+          - `l-1-4` — Quarter width on large
     after: |
       Now that we’ve added all those classes we should have a responsive layout.
 
@@ -296,7 +296,7 @@ steps:
       - `pteranodon.jpg`
       - `rhamphorhynchus.jpg`
 
-      *Check out the `screenshots` folder in the [repo you forked](https://github.com/acgd-webdev-2/using-gridifier/tree/gh-pages/screenshots) to see what the final layouts should look like.*
+      *Check out the `screenshots` folder in the [repo you forked](https://github.com/ltw-webdev-2/using-gridifier/tree/gh-pages/screenshots) to see what the final layouts should look like.*
 
       **Add the correct grid sizes to each of the remaining units. Gridifier already supports those layouts so you won’t have to change any CSS.**
 

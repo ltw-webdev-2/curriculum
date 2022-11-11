@@ -16,7 +16,7 @@ tasks:
   - type: blank
   - type: blank
   # - title: "One-on-one time"
-  #   url: "https://github.com/acgd-webdev-shared/one-on-one-time"
+  #   url: "https://github.com/ltw-webdev-shared/one-on-one-time"
   #   type: basic
   #   button: activity
   #   submit: "Submit nothing."
@@ -27,7 +27,7 @@ tasks:
     submit: "Submit feedback form."
     graded-as: false
   - title: "Continue assignments"
-    url: "https://github.com/acgd-webdev-shared/continue-assignments"
+    url: "https://github.com/ltw-webdev-shared/continue-assignments"
     submit: "Submit nothing new."
     graded-as: false
   - type: watch-videos

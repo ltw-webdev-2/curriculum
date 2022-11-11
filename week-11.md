@@ -19,15 +19,15 @@ slides:
 
 tasks:
   - title: "Form Finalizer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/form-finalizer/"
+    url: "https://activities.learntheweb.courses/form-finalizer/"
     type: activity
   - title: "Data table"
     url: data-table
     type: lesson
     submit: code
   - title: "Events calendar"
-    url: "https://github.com/acgd-webdev-2/events-calendar"
+    url: "https://github.com/ltw-webdev-2/events-calendar"
   - title: "More than just datum"
-    url: "https://github.com/acgd-webdev-2/more-than-just-datum"
+    url: "https://github.com/ltw-webdev-2/more-than-just-datum"
   - type: watch-videos
 ---

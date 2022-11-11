@@ -27,16 +27,16 @@ group_activities:
 
 tasks:
   - title: "Commit Connoisseur"
-    url: "https://activities.learn-the-web.algonquindesign.ca/commit-connoisseur/"
+    url: "https://activities.learntheweb.courses/commit-connoisseur/"
     type: activity
   - title: "Button systems"
     url: button-systems
     type: lesson
     submit: code
   - title: "Embed containers"
-    url: "https://github.com/acgd-webdev-2/embed-containers"
+    url: "https://github.com/ltw-webdev-2/embed-containers"
   - title: "Icons"
-    url: "https://github.com/acgd-webdev-2/icons"
+    url: "https://github.com/ltw-webdev-2/icons"
   - title: "List groups"
-    url: "https://github.com/acgd-webdev-2/list-groups"
+    url: "https://github.com/ltw-webdev-2/list-groups"
 ---

@@ -35,7 +35,7 @@ tasks:
     type: lesson
     submit: code
   - title: "Accessibility fixer-upper"
-    url: "https://github.com/acgd-webdev-2/accessibility-fixer-upper"
+    url: "https://github.com/ltw-webdev-2/accessibility-fixer-upper"
   - title: "Arrrgene’s treasure tours"
-    url: "https://github.com/acgd-webdev-2/arrrgenes-treasure-tours"
+    url: "https://github.com/ltw-webdev-2/arrrgenes-treasure-tours"
 ---

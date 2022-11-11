@@ -19,7 +19,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdev-2/finding-and-grouping-fields/archive/gh-pages.zip)
+      2. [Download the files](https://github.com/ltw-webdev-2/finding-and-grouping-fields/archive/gh-pages.zip)
       3. Get some paper, be all digital, to write notes
       4. You’ll be shown a form:
         - Determine the `type` *or* element for each field

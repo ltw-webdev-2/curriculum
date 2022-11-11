@@ -28,16 +28,16 @@ group_activities:
     url: semantics-schemantics
 
 todos:
-  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learn-the-web.algonquindesign.ca/profile/)"
+  - "[Assign yourself to the correct course & section on Progressinator for due dates](https://progress.learntheweb.courses/profile/)"
 
 tasks:
   - title: "Validation Verifier"
-    url: "https://activities.learn-the-web.algonquindesign.ca/validation-verifier/"
+    url: "https://activities.learntheweb.courses/validation-verifier/"
     type: activity
   - type: blank
   - title: "HTML writer"
-    url: "https://github.com/acgd-webdev-2/html-writer"
+    url: "https://github.com/ltw-webdev-2/html-writer"
   - title: "Responsive image section"
-    url: "https://github.com/acgd-webdev-2/responsive-image-section"
+    url: "https://github.com/ltw-webdev-2/responsive-image-section"
   - type: watch-videos
 ---

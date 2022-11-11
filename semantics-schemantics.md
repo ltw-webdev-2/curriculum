@@ -15,7 +15,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the files](https://github.com/acgd-webdev-2/semantics-schemantics/archive/master.zip)
+      2. [Download the files](https://github.com/ltw-webdev-2/semantics-schemantics/archive/master.zip)
       3. Prepare to draw on the document
 
   - content: |

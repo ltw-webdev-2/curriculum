@@ -29,8 +29,8 @@ tasks:
     type: lesson
     submit: code
   - title: "Registration form"
-    url: "https://github.com/acgd-webdev-2/registration-form"
+    url: "https://github.com/ltw-webdev-2/registration-form"
   - title: "Volunteer form"
-    url: "https://github.com/acgd-webdev-2/volunteer-form"
+    url: "https://github.com/ltw-webdev-2/volunteer-form"
   - type: watch-videos
 ---

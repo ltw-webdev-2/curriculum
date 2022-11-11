@@ -24,7 +24,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-2/data-table/fork"
+  url: "https://github.com/ltw-webdev-2/data-table/fork"
 
 steps:
   - title: "Project setup"
@@ -450,8 +450,8 @@ steps:
             text: |
               We’ll also add two classes to the `<div>`:
 
-              1. `.table-wrapper` — just made that up right now.
-              2. `.scrollable` — a class from Modulifier that adds horizontal scrollbars when necessary. Don’t abuse this class—it’s very, very nasty.
+              1. `.table-wrapper` — just made that up right now.
+              2. `.scrollable` — a class from Modulifier that adds horizontal scrollbars when necessary. Don’t abuse this class—it’s very, very nasty.
       - code_before: |
           Further down the page, don’t forget to add the closing `</div>` tag.
         code_lang: "html"

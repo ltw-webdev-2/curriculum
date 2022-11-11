@@ -21,7 +21,7 @@ slides:
 
 tasks:
   - title: "Definition Devastator"
-    url: "https://activities.learn-the-web.algonquindesign.ca/definition-devastator/"
+    url: "https://activities.learntheweb.courses/definition-devastator/"
     type: activity
   - title: "Making responsive grids"
     url: making-responsive-grids
@@ -32,5 +32,5 @@ tasks:
     submit: code
     type: lesson
   - title: "Grid layout"
-    url: "https://github.com/acgd-webdev-2/grid-layout"
+    url: "https://github.com/ltw-webdev-2/grid-layout"
 ---
