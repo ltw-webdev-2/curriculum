@@ -71,10 +71,10 @@ slides:
       <img src="…" alt="…" aria-details="thing">
 
   - type: youtube-embed
-    video: c0nvdiRdehw
+    youtube: c0nvdiRdehw
 
   - type: youtube-embed
-    video: cSSgndQ5mVs?start=55&end=164
+    youtube: cSSgndQ5mVs?start=55&end=164
 
   - content: |
       ## Tools
